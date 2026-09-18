@@ -1,0 +1,35 @@
+name: Idea
+description: Something Nornloom could do, or do better.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The problem or the moment first, the solution second. Both are welcome.
+  - type: textarea
+    id: moment
+    attributes:
+      label: The moment
+      description: What were you doing, and what was missing or in the way?
+      placeholder: After a lost fight I wanted to know which card I had lost, and had to open the deck screen to find out.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you would like to see. If it is about a card, a quest or a myth, say which, and the source if you know it.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Part of the game
+      options:
+        - The world (walking, villagers, quests)
+        - The sagas and the myths
+        - Bindrune (the card game)
+        - Cards and decks
+        - The title screen, saves and sign-in
+        - Something else

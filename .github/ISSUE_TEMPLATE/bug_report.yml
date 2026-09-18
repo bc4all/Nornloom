@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in Nornloom went wrong.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. A few details make a bug much quicker to find.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, step by step, and what happened instead of what you expected.
+      placeholder: |
+        1. Talked to Groa with The Waking done
+        2. Pressed "Accept: The Hanged God"
+        3. The button did nothing; expected the quest to appear in the HUD
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where you were
+      description: The region, the quest or the fight (the foe's name and level).
+      placeholder: Ashgrove Meadows, fighting a Bog slime, level 2
+  - type: input
+    id: hero
+    attributes:
+      label: Your hero
+      description: Level, and the peoples of the deck you were playing.
+      placeholder: Level 3, Æsir and Vanir
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome on Windows 11 / Safari on an iPhone 13
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag a picture in here if you have one.
