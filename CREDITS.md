@@ -50,10 +50,7 @@ original work for this project. No third party is involved.
 
 ## Word list (server only)
 
-The world server's name filter uses the naughty-words list, CC BY 4.0,
-https://github.com/LDNOOBW/naughty-words. It runs on the server and never reaches a player's device.
-
-## Formerly
-
-The CC0 Ninja Adventure placeholder art by pixel-boy and AAA was used until 2026-09-17 and has been
-removed from the game.
+The world server's name filter uses the naughty-words list, CC BY 4.0, by Shutterstock: the npm
+package https://www.npmjs.com/package/naughty-words, built from the LDNOOBW lists at
+https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words. It runs on the
+server and never reaches a player's device.
