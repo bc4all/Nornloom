@@ -10,7 +10,7 @@ No. It is free to play, alone or online, with no adverts and nothing to buy. Pla
 
 **Where is my hero saved?**
 
-A solo hero is saved in your browser, on the device you play on, and nothing about it is sent anywhere. It cannot follow you to another device, and clearing the site's storage removes it. The title screen keeps every hero on the device, so you can have several. A hero on a world lives on the world's server and follows your sign-in instead.
+A solo hero is saved on the device you play on, in the browser's storage or the app's data, and nothing about it is sent anywhere until you sign in. Signed in, a copy is kept for your account on the worlds' server, so the hero follows you to another device and comes back after that storage is cleared; the later of two devices' saves wins. The title screen keeps every hero on the device, so you can have several. A hero on a world lives on the world's server and follows your sign-in the same way.
 
 **Can I change how a myth ends?**
 
@@ -46,11 +46,11 @@ There is no difficulty setting; the world is the setting. A name in green is an 
 
 **Can I play in my own language?**
 
-The title screen offers seven tongues, and the game follows your device's language until you choose one. Card text, the villagers and the sagas still speak English.
+The title screen offers seven tongues, and the game follows your device's language until you choose one. Card text still speaks English.
 
 **Does it work on a phone?**
 
-Yes, in the browser. Hold the d-pad in the corner to walk and tap a card to read it. There is no app to install; the browser is the game.
+Yes. In the browser, hold the d-pad in the corner to walk and tap a card to read it. On Android there is also an app on Google Play, the same game with the same worlds; signing in there opens the site in your browser for a moment and comes back.
 
 **Will my hero survive an update?**
 
@@ -68,7 +68,7 @@ A sign-in from the Play online screen and an age of 16 or more. Playing online i
 
 **Can I take my solo hero online?**
 
-No. A hero on a world is made on that world and starts at level 1; a solo hero stays on its device. The worlds share the map and the sagas, so the story is the same. You may keep up to three heroes on each world.
+No. A hero on a world is made on that world and starts at level 1; a solo hero stays a solo hero, though it follows your sign-in between devices. The worlds share the map and the sagas, so the story is the same. You may keep up to three heroes on each world.
 
 **What is the difference between Midgard and Jotunheim?**
 
