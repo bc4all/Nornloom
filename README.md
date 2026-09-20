@@ -15,7 +15,9 @@ they end.
 villagers play it too. Two players build decks from six peoples (Æsir, Vanir, Jötnar, Dvergar,
 Helheim and Muspell), spend Megin, and fight until one side's Thread runs out. Warriors lose Armor
 for good as they fight, so winning still costs something. The rules are in the game under
-How to play.
+Help, and in full here: [BINDRUNE.md](BINDRUNE.md) is the handbook, with the rules as the game
+plays them, the six peoples and what each is good at, every keyword and card ability, the Gods and
+the saga cards, the foes, a dictionary of the game's words, and screenshots of how it looks.
 
 ## What this repository is for
 
@@ -24,7 +26,8 @@ and its licensed art live in a private repository, so there is no code here, onl
 issue forms.
 
 - **Have a question?** Read the [FAQ](FAQ.md) first: the questions players ask about the story
-  and about playing online, with the answers the game itself gives.
+  and about playing online, with the answers the game itself gives. A question about a rule, a
+  card or a word is probably answered in the [Bindrune handbook](BINDRUNE.md).
 - **Found a bug?** Open a [bug report](https://github.com/bc4all/Nornloom/issues/new?template=bug_report.yml).
 - **Have an idea?** Open an [idea](https://github.com/bc4all/Nornloom/issues/new?template=idea.yml).
 - **Something the FAQ does not answer, or that fits neither?** Open a [blank issue](https://github.com/bc4all/Nornloom/issues/new).
