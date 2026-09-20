@@ -2,10 +2,10 @@
 
 **Play it in the browser: https://brave-rock-06a1de603.3.azurestaticapps.net**
 
-Nornloom is a single-player Norse mythology RPG. You play a skald-in-training from the village of
-Eikthorp, pulled into the roots of Yggdrasil by the Norn Skuld. The threads of fate are fraying
-because the old stories are being forgotten. You walk into those stories, live through them beside
-the gods, and carry them back so the weave holds.
+Nornloom is a Norse mythology RPG, played alone or online with others. You play a skald-in-training
+from the village of Eikthorp, pulled into the roots of Yggdrasil by the Norn Skuld. The threads of
+fate are fraying because the old stories are being forgotten. You walk into those stories, live
+through them beside the gods, and carry them back so the weave holds.
 
 Every main quest is a real myth from the Eddas, and the myths keep their real endings. Thor loses
 to Elli. Týr loses his hand. Baldr dies and cannot be saved. You shape how events unfold, never how
@@ -23,9 +23,11 @@ This is the public front door of the game: **bug reports, ideas and questions**.
 and its licensed art live in a private repository, so there is no code here, only this page and the
 issue forms.
 
+- **Have a question?** Read the [FAQ](FAQ.md) first: the questions players ask about the story
+  and about playing online, with the answers the game itself gives.
 - **Found a bug?** Open a [bug report](https://github.com/bc4all/Nornloom/issues/new?template=bug_report.yml).
 - **Have an idea?** Open an [idea](https://github.com/bc4all/Nornloom/issues/new?template=idea.yml).
-- **A question, or something that fits neither?** Open a [blank issue](https://github.com/bc4all/Nornloom/issues/new).
+- **Something the FAQ does not answer, or that fits neither?** Open a [blank issue](https://github.com/bc4all/Nornloom/issues/new).
 
 Before opening one, have a look through the [open issues](https://github.com/bc4all/Nornloom/issues)
 in case it is already there; a thumbs-up on an existing issue counts.
@@ -46,8 +48,9 @@ in case it is already there; a thumbs-up on an existing issue counts.
 
 ## Good to know
 
-- Nornloom is an early build. It saves your heroes in the browser, on the device you play on; a
-  sign-in with GitHub or Microsoft is offered but does not yet carry saves between devices.
+- Nornloom is an early build. A solo hero is saved in the browser, on the device you play on; a
+  hero on a world lives on the world's server and follows your sign-in between devices. The
+  [FAQ](FAQ.md) says what that means in practice.
 - Saves may be reset between versions while the game is young. If that happens, it will be said
   here in the release notes.
 - The game has no ads and no tracking. Signing in sets one cookie.
