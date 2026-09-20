@@ -56,4 +56,5 @@ in case it is already there; a thumbs-up on an existing issue counts.
 
 Art: Time Fantasy by finalbossblues (Jason Perry). Fonts: MedievalSharp (Wojciech Kalinowski),
 Press Start 2P (CodeMan38), Noto Sans Runic (the Noto Project). The stories follow the Poetic Edda
-(Bellows, 1923) and Snorri Sturluson's Prose Edda (Brodeur, 1916).
+(Bellows, 1923) and Snorri Sturluson's Prose Edda (Brodeur, 1916). Every third-party asset, with its
+author, source and licence, is listed in [CREDITS.md](CREDITS.md).
