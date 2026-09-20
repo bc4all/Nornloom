@@ -1,6 +1,6 @@
 # Nornloom
 
-**Play it in the browser: https://brave-rock-06a1de603.3.azurestaticapps.net**
+**Play it in the browser: https://nornloom.com**
 
 Nornloom is a Norse mythology RPG, played alone or online with others. You play a skald-in-training
 from the village of Eikthorp, pulled into the roots of Yggdrasil by the Norn Skuld. The threads of
