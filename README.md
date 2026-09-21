@@ -30,6 +30,7 @@ something. The short rules are in the game under Help, then Bindrune; the whole 
 | A rule, a keyword, a card or a word | The handbook's [Keywords](BINDRUNE.md#keywords), [What a card's text can say](BINDRUNE.md#what-a-cards-text-can-say) and [Dictionary](BINDRUNE.md#dictionary). |
 | A people, its gods and its saga cards | [The six peoples, and the road](BINDRUNE.md#the-six-peoples-and-the-road): [Æsir](BINDRUNE.md#æsir), [Vanir](BINDRUNE.md#vanir), [Jötnar](BINDRUNE.md#jötnar), [Dvergar](BINDRUNE.md#dvergar), [Helheim](BINDRUNE.md#helheim), [Muspell](BINDRUNE.md#muspell) and [Neutral](BINDRUNE.md#neutral). |
 | Questions players ask | [FAQ.md](FAQ.md): [the story game](FAQ.md#the-story-game) and [playing online](FAQ.md#playing-online). |
+| What changed, release by release, and which bugs are fixed | [RELEASE_NOTES.md](RELEASE_NOTES.md). |
 | Screenshots | [How the game looks](BINDRUNE.md#how-the-game-looks) in the handbook, or the files in [images/](images). |
 | Who made what | [CREDITS.md](CREDITS.md): the [art](CREDITS.md#art-time-fantasy-by-finalbossblues), the [fonts](CREDITS.md#fonts), the [stories](CREDITS.md#the-stories), the [app icons](CREDITS.md#app-icons) and the [word list](CREDITS.md#word-list-server-only). |
 | What is kept about you, and the rules | [nornloom.com/privacy](https://nornloom.com/privacy) and [nornloom.com/terms](https://nornloom.com/terms), the same pages as in the game's help book. |
