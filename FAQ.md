@@ -30,7 +30,7 @@ The HUD names the next thing to do and the Bag keeps the quest log. In the world
 
 **A rune stone will not let me through.**
 
-The banner at the border says the level you need. Level up on the beasts and quests where you are, and make your deck the best it can be: traders sell cards, the smiths temper them, and Hrafn's yard lets you try a deck against anything with nothing at stake.
+The banner at the border says the level you need. Level up on the beasts and quests where you are, and make your deck the best it can be: traders sell cards, the smiths temper them, and Hrafn's yard lets you try a deck against anything with nothing at stake. The Map button on the world screen shows every land with the levels of its beasts, misted where you cannot go yet.
 
 **I lost a card in a fight. How do I get cards back?**
 
