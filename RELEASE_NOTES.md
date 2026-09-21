@@ -23,6 +23,10 @@ New:
 
 Fixed:
 
+- **The beast you walked into ran off before the fight.** A timid beast (two or more levels below
+  you) kept backing away while you read the challenge, so pressing Fight found nothing to fight.
+  Now a beast you walk into turns to you and holds still until you step away, so the fight you are
+  offered can be started.
 - **A pack could box you in.** Beasts chasing you would gather on every side, and since a living
   beast blocks a step you could not move until you had fought each of them in turn. Now at most one
   beast stands beside you at a time: the rest keep roaming while it does, and a beast that ends up
