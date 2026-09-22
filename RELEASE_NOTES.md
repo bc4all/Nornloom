@@ -9,6 +9,12 @@ are listed here when they are fixed.
 
 New:
 
+- **The hero's record.** A fifth tab in the backpack, Record, keeps the tally: fights won, lost
+  and fled and the share won, the best streak, the strongest foe beaten and the best upset,
+  the beast you have slain most, named foes and strongboxes, duels and sparring, gold won and
+  spent, XP, Rune-dust, cards won and lost and how many of the set you hold, gear found, quests
+  done, deaths. It counts from now on; what a hero did before this release is not on it.
+
 - **A world map.** The Map button in the world's toolbar opens the whole overworld at a glance:
   every land with its name and the levels of its beasts, a house on every village and hamlet, mist
   over the lands your level does not open yet, and a gold dot where you stand. Press a land to read
