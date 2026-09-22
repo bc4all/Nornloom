@@ -29,6 +29,12 @@ New:
 
 Fixed:
 
+- **Walking online on a phone could pull you back to where you set out from.** When the line
+  stalled or was replaced (a phone changing networks, a tab woken up), the world either refused
+  the burst of steps that arrived at once or put you back where it had last saved you, and the
+  app only showed it when you stopped. Now the world takes such a burst, a hero coming straight
+  back stands where it stood, the app does not walk at all while the line is down, and when the
+  world does take a step back you are set right at the next tile, not at the end of the walk.
 - **The beast you walked into ran off before the fight.** A timid beast (two or more levels below
   you) kept backing away while you read the challenge, so pressing Fight found nothing to fight.
   Now a beast you walk into turns to you and holds still until you step away, so the fight you are
