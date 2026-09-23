@@ -173,7 +173,7 @@ Cost ring top-left, and under it the triple knot if the card is Well-worthy. The
 
 ### How many, and where they come from
 
-The set is 1404 cards: 104 saga cards written by hand, each citing its source in the Eddas, and a host of 1300 forged by rule from each people's own names, halls and kennings, priced against the same budget, with rules text in the same words. By type: 764 Warriors, 128 Wards, 64 Runes, 190 Relics, 153 Galdr, 97 Seiðr, 8 Gods. By rarity: 579 common, 467 wrought, 258 rare, 92 mythic, 8 god.
+The set is 1404 cards: 104 saga cards written by hand, each citing its source in the Eddas, and a host of 1300 forged by rule from each people's own names, halls and kennings, priced against the same budget, with rules text in the same words. By type: 764 Warriors, 128 Wards, 64 Runes, 190 Relics, 156 Galdr, 94 Seiðr, 8 Gods. By rarity: 579 common, 467 wrought, 258 rare, 92 mythic, 8 god.
 
 Traders sell every common, 75% of the wrought and 50% of the rares; the rest are spoils, won only from the beaten, along with every mythic. Which cards are spoils is fixed, so a card is spoils on every device, and the card's footer says so. The Gods and the sagas' treasures are quest rewards only: never sold, never dropped, never in a strongbox. A win in the wild pays a card from the foe's people, commons six times as often as rares and a mythic now and then; hamlet quests pay cards too; and online the market and the parcels move cards between heroes for gold.
 
@@ -331,7 +331,7 @@ Two peoples in one deck either keep a Pact (one Offering already in the Well fro
 | Þrúðr, Thor's Daughter | Warrior | 4 | Rare, spoils | 4/2/2 | First-blow. |
 | Baldr | Warrior | 5 | Rare, quest | 3/5/4 | Hallowed: cannot be targeted by Galdr or Seiðr. Einherji. |
 | Skjaldborg | Ward (Bulwark) | 2 | Common | Integrity 7 | Bulwark. |
-| Tiwaz ᛏ | Rune | 1 | Common |  | Static: your Warriors get +0/+1/+0. Read: a Warrior you control gets +2/+0/+0 this turn. |
+| Tiwaz ᛏ | Rune | 1 | Common |  | Static: your Warriors get +0/+1/+0. Read: a Warrior you control gets +2/+0/+0 until your next turn. |
 | Megingjörð | Relic (Gear) | 2 | Wrought |  | Bearer gets +2/+0/+0 and Bearer. |
 | Járngreipr | Relic (Gear) | 2 | Wrought |  | Bearer gets +0/+2/+0. |
 | Gungnir | Relic (Gear) | 5 | Rare, quest |  | Bearer gets +3/+0/+0 and Gjallarbrú. |
@@ -474,7 +474,7 @@ Two peoples in one deck either keep a Pact (one Offering already in the Well fro
 | Eljúðnir | Ward (Barrier) | 3 | Wrought | Integrity 3 | Hall, Barrier. At your Dawn, put the top card of your Loom into your Helheim and draw a card. |
 | Hagalaz ᚺ | Rune | 2 | Wrought |  | Static: whenever an opposing Warrior dies, your opponent loses 1 Thread. Read: deal 1 damage to each Warrior with Armor 0. |
 | Gjöll's Chain | Relic (Gear) | 2 | Wrought |  | Bearer gets +1/+0/+2 and Draugr. |
-| Cold Grasp | Galdr | 1 | Common |  | A Warrior gets -2/-2/-0 until end of turn. |
+| Cold Grasp | Galdr | 1 | Common |  | An opposing Warrior gets -2/-2/-0 until end of turn. |
 | Still Tongue | Galdr | 3 | Wrought |  | Counter an opposing Galdr or Seiðr as it is played. |
 | Nine Nights in Hel | Seiðr | 4 | Wrought, spoils |  | Return up to 2 Warriors from your Helheim to play with Armor 0 and Doomed. |
 
@@ -494,7 +494,7 @@ Two peoples in one deck either keep a Pact (one Offering already in the Well fro
 
 | God | Cost | Devotion | Text | Won in |
 | --- | --- | --- | --- | --- |
-| Surtr, Flame of the End | 9 | 3 | Aura: at your Dawn, deal 1 damage plus the Doom step to your opponent's Thread, ignoring Wards. Call: destroy all Wards and every Warrior with Armor 0, and deal 5 to your opponent. Legacy: 1 damage at each Dawn. | Ragnarök (level 80) |
+| Surtr, Flame of the End | 9 | 3 | Aura: at your Dawn, deal 1 damage plus the Doom step to your opponent's Thread, ignoring Wards. Call: destroy all Wards and every Warrior with Armor 0, and deal 5 to your opponent. Legacy: at each Dawn, deal 1 damage to your opponent's Thread, ignoring Wards. | Ragnarök (level 80) |
 
 **Saga cards.** The 15 cards of the Muspell written by hand, each from a source in the Eddas; the forged host stands beside them.
 
@@ -514,7 +514,7 @@ Two peoples in one deck either keep a Pact (one Offering already in the Well fro
 | Smother | Galdr | 1 | Common |  | Counter an opposing Galdr costing 2 or less as it is played. |
 | Sear | Galdr | 1 | Common |  | Deal 2 damage to a Warrior, or 2 to your opponent's Thread, ignoring Bulwarks. |
 | Scorch the Wall | Galdr | 2 | Common |  | Deal 4 damage to an opposing Ward. |
-| Rain of Sparks | Galdr | 3 | Rare |  | Deal 1 damage to each Warrior and Ward, and 2 to your opponent's Thread. |
+| Rain of Sparks | Galdr | 3 | Rare |  | Deal 1 damage to each Warrior and Ward, and 2 to your opponent's Thread, ignoring Wards. |
 
 ### Neutral
 
