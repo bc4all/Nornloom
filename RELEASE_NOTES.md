@@ -9,6 +9,26 @@ are listed here when they are fixed.
 
 New:
 
+- **Your first duel, in pictures.** A new guide, [TUTORIAL.md](https://github.com/bc4all/Nornloom/blob/main/TUTORIAL.md), walks through Hrafn's
+  lesson one button at a time with a picture of every step, written so a young player can follow
+  it. The help book's Getting started page links to it, and has a new part, A duel, button by
+  button: on your turn Blót, Play, Raid, End turn; in the foe's turn Let it be, and block.
+- **The lesson says the order of a turn.** Hrafn's lesson has a new step, Your turn, in order, and
+  the lesson ends by saying the order once more. On a phone the table now scrolls by itself to the
+  Warrior the lesson asks you to tap, which used to be hidden under the lesson's box when you had
+  to block.
+- **Zoom.** The world has + and - buttons (and the + and - keys) to zoom the map in and out; the
+  device remembers your zoom. Zooming out stops where the world still shows every beast near you.
+- **A smaller hero panel.** Tap the hero panel in the world to fold it down to your level, HP and
+  XP, and tap it again to open it. It stays the way you left it.
+- **Landmarks and quest stars on the world map.** A star on the map marks where each of your quests
+  leads next (or where to hand it in). Press a land and then Zoom in to see it up close, with its
+  traders, smiths, healers, temples, waystones, quest givers, caves and rune stones marked, and a
+  legend. Lands still under the mist keep what stands in them hidden.
+- **Learn more.** Every page of the help book ends with a Learn more button to the game's page on
+  GitHub.
+- **Less clutter on phones.** The line of walking tips above the d-pad is gone on phones and
+  tablets; it stays on a computer, where it names the keys.
 - **The Skald's Road, a walkthrough of every saga.** [QUESTS.md](https://github.com/bc4all/Nornloom/blob/main/QUESTS.md)
   in the public repository walks the whole story step by step with a screenshot of each: where to
   go and which way from the step before, who is waiting there and what they say, what to fight,
@@ -42,6 +62,10 @@ New:
 
 Fixed:
 
+- **Refreshing the page while playing online opened the solo game.** Pressing F5 (or reloading) on
+  a world now takes you straight back into that world as the same hero. If the world will not take
+  the hero back, or you had no hero on the page at all, you land on the title screen instead of a
+  solo hero you never made.
 - **A card that shows the opponent's hand showed nothing.** Heimdallr's Watch and every card that
   says your opponent plays with their hand revealed now do: the Hand count on the opponent's plate
   becomes a button that lays their hand out, and a tap on a card opens it to read.
