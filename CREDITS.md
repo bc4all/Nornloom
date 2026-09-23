@@ -24,6 +24,19 @@ which is why the game's source repository, with the raw sheets in it, is private
 The sprites are cropped, scaled and recoloured by the game's build scripts. The recolours are ours;
 the drawings are the author's.
 
+## Music and sounds
+
+| In the game | Pack | Author | Source | Licence |
+| --- | --- | --- | --- | --- |
+| The title tune, Eikthorp's tune and the bosses' sagas | Viking Folk Music Pack | alkakrab | https://alkakrab.itch.io/free-viking-folk-music-pack | alkakrab's music licence |
+| The lands' tunes, the fight music and the fanfares | Free 25 Fantasy RPG Game Tracks Vol.3 | alkakrab | https://alkakrab.itch.io/free-25-fantasy-rpg-game-tracks | alkakrab's music licence |
+| Blows, spells, coins, steps, voices, doors, buttons | 70+ Game Environment FX Pack | alkakrab | https://alkakrab.itch.io/70-game-environment-fx-pack | alkakrab's music licence |
+| Cards shuffled, drawn and laid, and Offerings in the Well | Casino Audio | Kenney | https://kenney.nl/assets/casino-audio | CC0 |
+
+alkakrab's licence allows use in commercial games and apps, with edits to loudness and timing;
+credit is not required, and is given here gladly. The files may not be passed on as they are, so
+they are not in this repository. The game only evens out their loudness; nothing is remixed.
+
 ## Fonts
 
 | Font | Designer | Source | Licence |
