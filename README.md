@@ -26,6 +26,7 @@ something. The short rules are in the game under Help, then Bindrune; the whole 
 | You want | Go to |
 | --- | --- |
 | To play | [nornloom.com](https://nornloom.com). How to play and About are on the title screen; in the game, Help opens the book: About, Getting started, Bindrune, Step by step, FAQ, Privacy and Terms. |
+| Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [QUESTS.md](QUESTS.md), The Skald's Road: every saga step by step with a screenshot of each, from [The Waking](QUESTS.md#the-waking) to [Ragnarök](QUESTS.md#ragnarök), the [side sagas](QUESTS.md#the-side-sagas), the [village work](QUESTS.md#village-work) and [the hamlets](QUESTS.md#the-hamlets). |
 | The rules of Bindrune, in full | [BINDRUNE.md](BINDRUNE.md), the handbook. Its chapters are listed [below](#the-bindrune-handbook-chapter-by-chapter). |
 | A rule, a keyword, a card or a word | The handbook's [Keywords](BINDRUNE.md#keywords), [What a card's text can say](BINDRUNE.md#what-a-cards-text-can-say) and [Dictionary](BINDRUNE.md#dictionary). |
 | A people, its gods and its saga cards | [The six peoples, and the road](BINDRUNE.md#the-six-peoples-and-the-road): [Æsir](BINDRUNE.md#æsir), [Vanir](BINDRUNE.md#vanir), [Jötnar](BINDRUNE.md#jötnar), [Dvergar](BINDRUNE.md#dvergar), [Helheim](BINDRUNE.md#helheim), [Muspell](BINDRUNE.md#muspell) and [Neutral](BINDRUNE.md#neutral). |
@@ -71,7 +72,7 @@ built, so when a rule changes the page changes with the next release.
 
 This is the public front door of the game: **bug reports, ideas and questions**. The game's source
 and its licensed art live in a private repository, so there is no code here: this page, the
-handbook, the FAQ, the credits, the screenshots and the issue forms.
+handbook, the quest walkthrough, the FAQ, the credits, the screenshots and the issue forms.
 
 - **Have a question?** Read the [FAQ](FAQ.md) first: the questions players ask about
   [the story](FAQ.md#the-story-game) and about [playing online](FAQ.md#playing-online), with the
