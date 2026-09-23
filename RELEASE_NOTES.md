@@ -68,8 +68,30 @@ New:
   folded until you open it again.
 - **Only the cards you can add.** In the deck editor, Can be added shows only the cards this deck
   can still take a copy of, with the count shown beside it.
+- **Look into Helheim at the table.** Each player's plate at the card table has Helheim and a count;
+  tap it to see every card in that Helheim, and the Valhalla below it, and tap a card to read it.
+- **A clock in duels, and more time.** A duel now gives ninety seconds for each move instead of
+  forty-five. A clock beside the round shows what is left: gold while it is your move, grey while
+  it is theirs. At fifteen seconds your clock turns red, says Hurry! and sounds once.
+- **Duel, trade or send a parcel from the chat.** Open a hero in the chat (tap a name in Nearby, a
+  thread in Private or a hero in Online) and the thread has Duel, Trade, Parcel and Block buttons;
+  what you type there is a whisper to that hero.
+- **Find a hero for a parcel.** Under the parcel's name field the heroes you know (whispered with,
+  sent you a parcel, standing near) are offered, and as you type, every hero of the world whose
+  name starts that way. A tap fills in the name.
 
 Fixed:
+
+- **Walking stopped with a shake in some open places online.** A few beasts of the sagas stand in
+  the world only for heroes at that step of their quest, and the world still counted them as in
+  the way for everyone else. You walked into something you could not see, and the hero jumped
+  back. You now walk through them unless you can see them.
+- **Parcels and the market said "Find a trader" while you stood at one.** Working at a trader's
+  counter (packing a parcel, pricing a card) did not count as doing something, so after ten
+  minutes there the world let the hero go, and the counter only said to find a trader until the
+  page was refreshed. Work at the counter now counts. If the world does let you go, every screen
+  says so and has an Enter again button, with no refresh needed, and the world gives the real
+  reason instead of "Find one".
 
 - **Refreshing the page while playing online opened the solo game.** Pressing F5 (or reloading) on
   a world now takes you straight back into that world as the same hero. If the world will not take
