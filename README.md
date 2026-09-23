@@ -26,6 +26,7 @@ something. The short rules are in the game under Help, then Bindrune; the whole 
 | You want | Go to |
 | --- | --- |
 | To play | [nornloom.com](https://nornloom.com). How to play and About are on the title screen; in the game, Help opens the book: About, Getting started, Bindrune, Step by step, FAQ, Privacy and Terms. |
+| To learn how a fight works, one button at a time | [TUTORIAL.md](TUTORIAL.md), your first duel in pictures: Hrafn's lesson step by step with a screenshot of every press, and the order of a turn (Blót, Play, Raid, End turn) in one table. Written so a young player can follow it. |
 | Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [QUESTS.md](QUESTS.md), The Skald's Road: every saga step by step with a screenshot of each, from [The Waking](QUESTS.md#the-waking) to [Ragnarök](QUESTS.md#ragnarök), the [side sagas](QUESTS.md#the-side-sagas), the [village work](QUESTS.md#village-work) and [the hamlets](QUESTS.md#the-hamlets). |
 | The rules of Bindrune, in full | [BINDRUNE.md](BINDRUNE.md), the handbook. Its chapters are listed [below](#the-bindrune-handbook-chapter-by-chapter). |
 | A rule, a keyword, a card or a word | The handbook's [Keywords](BINDRUNE.md#keywords), [What a card's text can say](BINDRUNE.md#what-a-cards-text-can-say) and [Dictionary](BINDRUNE.md#dictionary). |
