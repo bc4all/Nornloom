@@ -175,7 +175,7 @@ Cost ring top-left, and under it the triple knot if the card is Well-worthy. The
 
 The set is 1404 cards: 104 saga cards written by hand, each citing its source in the Eddas, and a host of 1300 forged by rule from each people's own names, halls and kennings, priced against the same budget, with rules text in the same words. By type: 764 Warriors, 128 Wards, 64 Runes, 190 Relics, 156 Galdr, 94 Seiðr, 8 Gods. By rarity: 579 common, 467 wrought, 258 rare, 92 mythic, 8 god.
 
-Traders sell every common, 75% of the wrought and 50% of the rares; the rest are spoils, won only from the beaten, along with every mythic. Which cards are spoils is fixed, so a card is spoils on every device, and the card's footer says so. The Gods and the sagas' treasures are quest rewards only: never sold, never dropped, never in a strongbox. A win in the wild pays a card from the foe's people, commons six times as often as rares and a mythic now and then; hamlet quests pay cards too; and online the market and the parcels move cards between heroes for gold.
+Traders sell every common, 75% of the wrought and 50% of the rares; the rest are spoils, won from the beaten, along with every mythic. Which cards are spoils is fixed, so a card is spoils on every device, and the card's footer says so. The one counter for spoils is the far-trader in the Jotun Fens: 4 cards a week, one of them mythic (from level 15), none dearer than 5 Megin, at 110, 300 and 800 gold, and one bargain a hero each week. The Gods and the sagas' treasures are quest rewards only: never sold, never dropped, never in a strongbox. A win in the wild pays a card from the foe's people, commons six times as often as rares and a mythic now and then; hamlet quests pay cards too; and online the market and the parcels move cards between heroes for gold.
 
 ## Keywords
 
@@ -648,7 +648,7 @@ The words of the board and the table, A to Z. Tapping a word on a card in the ga
 | Rune-dust | Glory brought home from a won fight, one a point. The smiths take it to temper Warriors and Wards. |  |
 | Seiðr | A rite: a slower, bigger spell for your own turn only. | seiðr |
 | Sparring | A bout in Hrafn's yard against a straw copy of any beast at any level: the real rules, the real deck, and nothing won or lost. |  |
-| Spoils | A card no trader sells: won from the beaten only. The card's footer says so. |  |
+| Spoils | A card the ordinary traders never sell: won from the beaten, or now and then bought dear from the far-trader in the Jotun Fens. The card's footer says so. |  |
 | Stack | The cards and abilities waiting to resolve while the other side may answer; last in, first out. The screen calls its moment a chant window. |  |
 | Tempered, Forged | The two levels a smith can work a Warrior or Ward to, for Rune-dust: +1 Armor and +1 Vigor (a Ward +2 Integrity), then +1 Might (a Ward +2 more). |  |
 | Thread | Your life. When it is cut to 0 the battle is lost. |  |
