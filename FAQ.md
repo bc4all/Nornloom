@@ -98,6 +98,10 @@ A name has 3 to 20 letters, is unique across the worlds (look-alike spellings co
 
 Ten minutes without doing anything, and the world closes the door; it warns you a minute ahead. Nothing is lost: press Enter again. Work at a trader's counter counts, and a hero at a table is never idle.
 
+**I have gold and nothing worth buying. Where can I spend it?**
+
+Look for Ragna the far-trader in the Jotun Fens (level 8). She sells four spoils of the road a week that no other counter has: wrought for 110 gold, rare for 300, and one mythic for 800 from level 15. One bargain a week, so come back when the week turns.
+
 **How long do I have for a move in a duel?**
 
 90 seconds for each move. The clock beside the round shows what is left of yours, and at 15 seconds it turns red and sounds. When it runs out, the world makes the plainest move for you: it passes, blocks only what it must, or ends the turn.
