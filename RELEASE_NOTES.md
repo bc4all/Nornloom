@@ -33,7 +33,9 @@ New:
   in the public repository walks the whole story step by step with a screenshot of each: where to
   go and which way from the step before, who is waiting there and what they say, what to fight,
   every riddle with its answer folded away, and the reward. The prologue, the thirteen main sagas,
-  the five side sagas, the village jobs and a table of every hamlet's two jobs.
+  the five side sagas, the village jobs and a table of every hamlet's two jobs. Stuck? Every quest
+  under way in the backpack's Quests tab has a "Need help?" link that opens the walkthrough at that
+  quest's own chapter.
 
 - **The hero's record.** A fifth tab in the backpack, Record, keeps the tally: fights won, lost
   and fled and the share won, the best streak, the strongest foe beaten and the best upset,
