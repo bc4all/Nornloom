@@ -68,8 +68,9 @@ New:
   folded until you open it again.
 - **Only the cards you can add.** In the deck editor, Can be added shows only the cards this deck
   can still take a copy of, with the count shown beside it.
-- **Look into Helheim at the table.** Each player's plate at the card table has Helheim and a count;
-  tap it to see every card in that Helheim, and the Valhalla below it, and tap a card to read it.
+- **Look into Helheim and Valhalla at the table.** Each player's plate at the card table shows
+  how many cards lie in their Helheim and their Valhalla; tap it to see every card in both, and tap
+  a card to read it.
 - **A clock in duels, and more time.** A duel now gives ninety seconds for each move instead of
   forty-five. A clock beside the round shows what is left: gold while it is your move, grey while
   it is theirs. At fifteen seconds your clock turns red, says Hurry! and sounds once.
