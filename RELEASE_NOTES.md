@@ -76,12 +76,20 @@ New:
 - **Duel, trade or send a parcel from the chat.** Open a hero in the chat (tap a name in Nearby, a
   thread in Private or a hero in Online) and the thread has Duel, Trade, Parcel and Block buttons;
   what you type there is a whisper to that hero.
+- **Ragna the far-trader.** A new dealer stands by Kettil's fire in the Jotun Fens (level 8). She
+  sells what the ordinary counters never do, the spoils of the road: four cards a week, the same
+  for everyone, three wrought or rare and one mythic. They are dear (wrought 110 gold, rare 300,
+  the mythic 800 and only from level 15), and each hero gets one bargain a week. Gods and the
+  sagas' treasures are still never sold. A card she may carry says so in its footer, and the help
+  book's FAQ points the way.
 - **Find a hero for a parcel.** Under the parcel's name field the heroes you know (whispered with,
   sent you a parcel, standing near) are offered, and as you type, every hero of the world whose
   name starts that way. A tap fills in the name.
 
 Fixed:
 
+- **A duel showed the wrong people for the other hero.** The plate across the table named the
+  peoples of a beast instead of the other hero's deck; it now shows the peoples they really play.
 - **Walking stopped with a shake in some open places online.** A few beasts of the sagas stand in
   the world only for heroes at that step of their quest, and the world still counted them as in
   the way for everyone else. You walked into something you could not see, and the hero jumped
