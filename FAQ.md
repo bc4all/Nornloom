@@ -96,7 +96,11 @@ A name has 3 to 20 letters, is unique across the worlds (look-alike spellings co
 
 **The world let me go. What happened?**
 
-Ten minutes without doing anything, and the world closes the door; it warns you a minute ahead. Nothing is lost. Go back to the Worlds screen and enter again. A hero at a table is never idle.
+Ten minutes without doing anything, and the world closes the door; it warns you a minute ahead. Nothing is lost: press Enter again. Work at a trader's counter counts, and a hero at a table is never idle.
+
+**How long do I have for a move in a duel?**
+
+90 seconds for each move. The clock beside the round shows what is left of yours, and at 15 seconds it turns red and sounds. When it runs out, the world makes the plainest move for you: it passes, blocks only what it must, or ends the turn.
 
 **My connection dropped in a fight.**
 
