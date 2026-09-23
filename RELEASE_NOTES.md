@@ -14,7 +14,8 @@ New:
   the great foes, and a short fanfare when a bout is won or lost or a quest is done. Cards shuffle,
   slide and land, blows ring, spells hiss, coins clink at the traders, and your steps sound on the
   road. The title screen sets the Music and the Sounds apart, from Off to High, and the device
-  remembers it. In a browser the music starts at your first tap or key.
+  remembers it; in the world two buttons beside the zoom turn the music and the sounds off and
+  on again. In a browser the music starts at your first tap or key.
 - **Your first duel, in pictures.** A new guide, [TUTORIAL.md](https://github.com/bc4all/Nornloom/blob/main/TUTORIAL.md), walks through Hrafn's
   lesson one button at a time with a picture of every step, written so a young player can follow
   it. The help book's Getting started page links to it, and has a new part, A duel, button by
