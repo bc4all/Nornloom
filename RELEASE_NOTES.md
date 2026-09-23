@@ -26,8 +26,41 @@ New:
   cold open, so the offer stands on its own. It is made once, and the world remembers the answer
   whichever device you play on. The lesson is still there whenever you want it: at Hrafn's yard in
   Eikthorp, and from the title screen under Learn to play.
+- **Who is online, in the chat.** A third tab in the chat, Online, lists every hero in your world
+  now with its level; press a name to open a private thread with them.
+- **Fold the toolbar.** The world's toolbar (Bag, Quests, Decks and the rest) has a Hide button,
+  as the chat does, and folds to a single Menu button, so a phone has more of the map. It stays
+  folded until you open it again.
+- **Only the cards you can add.** In the deck editor, Can be added shows only the cards this deck
+  can still take a copy of, with the count shown beside it.
 
 Fixed:
+
+- **A card that shows the opponent's hand showed nothing.** Heimdallr's Watch and every card that
+  says your opponent plays with their hand revealed now do: the Hand count on the opponent's plate
+  becomes a button that lays their hand out, and a tap on a card opens it to read.
+- **A Berserk Warrior could be kept home.** End turn ended the turn even when a Berserk Warrior
+  could still raid. Now End turn opens the raid with the Berserk chosen and says why, and online
+  the world refuses the turn's end too.
+- **The deck editor cut the collection short on a phone.** The last rows of your collection hid
+  under the deck; now the whole collection shows.
+- **Card rules that did less or more than the card says.** Frost-grip now holds the Warrior it
+  wounds, whether it raids or blocks. Gear that gives Swift (Gullfaxi, Sleipnir) lets a Warrior
+  raid the turn it gets it. A card that returns an opposing Warrior returns one, the one you aim
+  at, no longer all of them, and Hallowed Warriors are safe from it. A debuff chanted on the
+  opponent's turn ends with that turn instead of lasting through yours. A God loses one Devotion
+  for five Thread lost in a turn, not two. Oath Broken answers a Seiðr only, as it says. Counters
+  the forge made as Seiðr, which could never be played, are Galdr now. Surtr's fire at the fifth
+  step of the Doom lets a Ward's "when it is destroyed" happen (Bifröst Breaking burns as it
+  should). Gleipnir goes to the Helheim of whoever bound with it. Raiding with a Gjallarbrú Warrior
+  shows the raid's outcome again. Cold Grasp, Rain of Sparks and Tiwaz say exactly what they do.
+- **Four gods left nothing behind.** Týr, Odin, Freyja and Surtr promised a Legacy and left
+  none when they departed. Now they do: opposing Berserk Warriors get -1 Might after Týr, an
+  extra card at each Dawn after Odin, 1 Thread at each Dawn after Freyja, and 1 damage to your
+  opponent's Thread at each Dawn after Surtr.
+- **Duels: the clock and the blocks.** When the turn time ran out on a defender facing a
+  Gjallarbrú raider, or on a player with a Berserk Warrior, the duel was lost on the spot; the
+  clock now makes the move the rules demand. And only the defender may set the blocks.
 
 - **Walking online on a phone could pull you back to where you set out from.** When the line
   stalled or was replaced (a phone changing networks, a tab woken up), the world either refused
