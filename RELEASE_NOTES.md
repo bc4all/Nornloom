@@ -150,6 +150,11 @@ Fixed:
 - **Cards on top of each other at a wide table.** On a big screen a full Garth (Wards, Runes and
   Relics) ran under the Warriors of the Shieldwall beside it. The Shieldwall now steps aside to make
   room, and a Garth that still does not fit goes on to a second row.
+- **Stuck in the depths of a cave.** The hole down to a cave's lower level let in heroes too young
+  for it, and once below every step was refused, the ladder back up among them, under a grey mist.
+  The hole now asks for the lower level's level like the cave mouth does, and a hero who stands in a
+  land above their level can always walk in it and out again. Anyone stuck down there can simply
+  climb the ladder.
 
 ## 0.3.1 (20 September 2026, Android version code 11)
 
