@@ -147,6 +147,9 @@ Fixed:
   beast stands beside you at a time: the rest keep roaming while it does, and a beast that ends up
   beside you all the same backs away and never attacks. You fight one beast at a time, alone and
   online alike, and always have a way out.
+- **Cards on top of each other at a wide table.** On a big screen a full Garth (Wards, Runes and
+  Relics) ran under the Warriors of the Shieldwall beside it. The Shieldwall now steps aside to make
+  room, and a Garth that still does not fit goes on to a second row.
 
 ## 0.3.1 (20 September 2026, Android version code 11)
 
