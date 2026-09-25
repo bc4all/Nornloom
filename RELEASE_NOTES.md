@@ -89,6 +89,10 @@ New:
 
 Fixed:
 
+- **A weaker beast ran off before the fight online.** A beast below your level runs from you. When
+  you caught one and pressed Fight, the world had never heard that you walked into it, so the
+  beast kept running and the table said "Nothing to fight here." The world now hears the bump, and
+  the beast stands still facing you while you read the challenge.
 - **A duel showed the wrong people for the other hero.** The plate across the table named the
   peoples of a beast instead of the other hero's deck; it now shows the peoples they really play.
 - **Walking stopped with a shake in some open places online.** A few beasts of the sagas stand in
