@@ -572,7 +572,7 @@ Every beast of the world fights for one people and by an archetype: the shape of
 | Necromancy | Few Warriors, many rites: it drains your Thread and raises what dies. | Barrow wight, Necromancer, Barrow wisp, Lich, Garmr, hound of Hel |
 | Spellfire | Chants and rites that burn Warriors and Wards alike; the Thread is next. | Dark wizard, Runecaster, Drake, Fire elemental, Living flame, Spawn of Surtr |
 | Wall | Stone-slow bodies behind thick Wards; it repairs what you break. | Shore crab, Stone golem, Moss golem, Earth elemental, The Builder, unmasked, Andvari the dwarf |
-| Brute | Huge, slow Warriors that break Wards and freeze what they touch. | Fen troll, Orc brute, Minotaur, Ice elemental, Þrymr, lord of the thurses, Jörmungandr, hooked |
+| Brute | Huge, slow Warriors that break Wards and freeze what they touch. | Fen troll, Orc brute, Minotaur, Ice elemental, Grimtusk, the old boar, Þrymr, lord of the thurses |
 | Growth | Rooted bodies that grow every Dawn while its Thread climbs out of reach. | Elk, Brown bear, Walking mushroom, Treant, Himinhrjótr, Hymir's ox |
 | Swarm | Small venomous things, too many to block and deadly to touch. | Bog slime, Cave bat, Forest spider, Adder, Marsh frog, Giant scorpion |
 | Skyborne | Wings over your Shieldwall: little can block it, and the storm follows. | Great owl, War eagle, Storm elemental, Phoenix, Hraesvelg, Suttungr in eagle shape |
@@ -588,6 +588,9 @@ From level 40 a beast may carry one of its people's traits, an aura in force fro
 | A fat, biting fly | Mistletoe | A biting fly: Your Warriors enter play with −1 Armor. |
 | Þjazi in eagle shape | Hyrrokkin, Frost-Thurs | Storm-wings: Its chants and rites deal 1 more damage. |
 | Andvari the dwarf | Rati the Auger, Gleipnir | Ring-wright: Its Gear costs 1 less and its Warriors get +1 Armor. |
+| Skarf Red-Shield | Berserker, Þrúðr, Thor's Daughter | Red shields: Its Warriors get +1 Armor. |
+| Grimtusk, the old boar | Hildisvíni | Scythe tusks: Its Warriors get +1 Might. |
+| The Web-Mother | Mistletoe | Webs: Your Warriors enter play with −1 Armor. |
 | Þrymr, lord of the thurses | Mountain-Kin, Frost-Thurs, Fimbul Gale | Lord of the thurses: Its Jötnar Warriors get +1 Might. |
 | Himinhrjótr, Hymir's ox | Mountain-Kin, Þrymheimr | Ox-strong: Its Warriors get +1 Vigor. |
 | Jörmungandr, hooked | Jörmungandr, Fimbul Gale | Coils of the deep: Your Warriors enter play with −1 Armor. |

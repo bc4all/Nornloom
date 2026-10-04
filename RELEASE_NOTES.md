@@ -5,10 +5,19 @@ runs the latest; the Android app is released in numbered versions, and each vers
 what it carries. Bugs you report through the [issue forms](https://github.com/bc4all/Nornloom/issues/new/choose)
 are listed here when they are fixed.
 
-## On the site since 0.3.1 (21 September 2026)
+## 0.3.2 (3 October 2026): on the site since 21 September, on Android from this version
 
 New:
 
+- **Work at every level.** Each band of lands used to run dry before the next one opened: from
+  level 16, 26, 34 and so on up to 96 there was nothing new to take up, only beasts to fight. Five
+  new jobs fill the stretch from 16 to 20: Sten the merchant in Askmark wants the Red Shields
+  gone, their bandits first and then their chief; the elder of Helvik asks you to give an old boar
+  the raiders have maddened a clean end; and the elder of Thrymheim needs the high road cleared of
+  webs, and of what spins them. Each ends with a foe you meet nowhere else, with a deck and a trait
+  of its own. And from level 20 up, every land's elder has two more jobs for the top of its levels:
+  thin out the beasts that run ahead of the land's old one, a strong beast of a kind the land
+  seldom shows, and bring it down; then keep the land's roads, for a card.
 - **Music and sounds.** Nornloom has a voice now: a Nordic folk tune on the title screen, a tune
   for each land as you walk (Eikthorp has its own), fight music at the card table and a saga for
   the great foes, and a short fanfare when a bout is won or lost or a quest is done. Cards shuffle,
@@ -89,6 +98,21 @@ New:
 
 Fixed:
 
+- **The Android app looked blurry and the camera skipped.** The app drew the pixel art smoothed:
+  the map, the faces, the cards and the icons, with thin lines between some tiles, and the camera
+  lost a few frames now and then while walking. Everything is now drawn as sharp as on the site,
+  without the lines, and the map walks smoothly.
+- **Leaving a world could wipe your solo hero.** Coming back from an online world wrote a fresh
+  level 1 "Hero" over the solo hero in play a second later, and the account kept the wiped copy
+  too; the list of heroes still showed the old name and level. Your solo heroes now stay as you
+  left them.
+- **The Android app could not enter a world.** Right after entering, the app said "The world let
+  go of you" and Enter again did not help, while the site played fine. The worlds now let the app
+  in.
+- **The market sent you away after you put something up.** The goods went up for sale, but the
+  market then said "The market is kept by the traders. Find one." and your hero stood somewhere
+  else on the map. Putting up, buying and taking down now leave you at the trader, with the market
+  open.
 - **A weaker beast ran off before the fight online.** A beast below your level runs from you. When
   you caught one and pressed Fight, the world had never heard that you walked into it, so the
   beast kept running and the table said "Nothing to fight here." The world now hears the bump, and

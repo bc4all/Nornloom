@@ -2352,7 +2352,7 @@ Reward: 1136 gold, 17709 XP, the card Huginn, the card Muninn.
 
 ## Village work
 
-The everyday jobs of the hand-built lands: wolves, slimes, a letter, a boar, a hoard. Short, close to home, and good for the first levels.
+The everyday jobs of the villages. Close to home for the first levels: wolves, slimes, a letter, a boar, a hoard. Further out, for the stretch between the stolen apples and the lands that open at 21: a bandit chief in Askmark, an old boar in Helvik and a spider on Thrymheim's high road.
 
 ### Wolves at the gate
 
@@ -2680,63 +2680,245 @@ About 14 steps east of where you fought.
 
 Reward: 500 gold, 1000 XP, the card Valkyrie Chooser.
 
+### The Red Shields
+
+*Level 16 · given by Sten the merchant in Askmark · 1 step*
+
+**Taking it up.** Find Sten the merchant in Askmark, about 130 steps south-east of Eikthorp.
+
+![](images/quests/red-shields-00.png)
+
+> A band who paint their shields red rob my carts on every road out of Askmark. Bring down five of them and I will pay in silver.
+
+**1. Defeat Bandit**
+
+Where: Askmark. About 10 steps south-west of Sten the merchant. *Five of them. Every bandit on the roads around Askmark carries a red shield now.*
+
+![](images/quests/red-shields-01.png)
+
+Win 5 fights against bandits.
+
+Bandits roam here; walk into one to fight it.
+
+**Return to Sten the merchant**
+
+About 10 steps north-east of where you fought.
+
+![](images/quests/red-shields-02.png)
+
+> Five fewer red shields on my roads. Here is your silver. Their chief will not like it, mind.
+
+Reward: 190 gold, 1059 XP.
+
+### The chief of the Red Shields
+
+*Level 17 · given by Sten the merchant in Askmark · after The Red Shields · 3 steps*
+
+**Taking it up.** Find Sten the merchant in Askmark, about 130 steps south-east of Eikthorp.
+
+![](images/quests/skarf-red-shield-00.png)
+
+> Their chief is Skarf Red-Shield, and he sends out a new band every time we beat one. Nanna, the elder of Ormstrand, says she has seen his camp. Ask her, then end it.
+
+**1. Ask Nanna the elder in Ormstrand where the chief camps**
+
+Where: Nanna the elder, in Ormstrand. About 60 steps west of Sten the merchant. *Nanna, the elder of Ormstrand, west of here, has seen where they camp.*
+
+![](images/quests/skarf-red-shield-01.png)
+
+> Skarf Red-Shield? He camps in the south of Askmark, right under Sten's nose, with his raiders around him. He took my brother's boat last spring. Break his guard and bring him down, for both of us.
+
+Then press "I will find him".
+
+**2. Defeat Raider**
+
+Where: Askmark. About 40 steps north-east of Nanna the elder. *Three of his raiders first. They keep watch on the roads of Askmark.*
+
+![](images/quests/skarf-red-shield-02.png)
+
+Win 3 fights against raiders.
+
+Raiders roam here; walk into one to fight it.
+
+**3. Bring down Skarf Red-Shield in the south of Askmark**
+
+Where: Skarf Red-Shield, level 19, in Askmark. About 50 steps south-east of where you fought. *Skarf is in the south of Askmark. He fights behind a wall of red shields.*
+
+![](images/quests/skarf-red-shield-03.png)
+
+A fight of Bindrune against Skarf Red-Shield, level 19. This foe is only here while this step of the story is playing. Walk into it when you are ready.
+
+**Return to Sten the merchant**
+
+About 30 steps north of Skarf Red-Shield.
+
+![](images/quests/skarf-red-shield-04.png)
+
+> Skarf beaten and the Red Shields scattered for good. Take the silver, and this card; it came off one of my carts, and you have earned it.
+
+Reward: 260 gold, 1785 XP, the card Hermóðr the Messenger.
+
+### The old boar of Helvik
+
+*Level 17 · given by Ingvar the elder in Helvik · 2 steps*
+
+**Taking it up.** Find Ingvar the elder in Helvik, about 130 steps south of Eikthorp.
+
+![](images/quests/grimtusk-00.png)
+
+> There is a boar in Helvik older than I am, with tusks like scythes. Raiders wounded it for sport, and now it gores anyone who walks the north road. Drive the raiders off, then give the old one a clean end.
+
+**1. Defeat Raider**
+
+Where: Helvik. About 18 steps north-west of Ingvar the elder. *Four raiders. They hunt the old boar for its tusks and only make it angrier.*
+
+![](images/quests/grimtusk-01.png)
+
+Win 4 fights against raiders.
+
+Raiders roam here; walk into one to fight it.
+
+**2. Give Grimtusk a clean end in the woods north of Helvik**
+
+Where: Grimtusk, the old boar, level 20, in Helvik. About 20 steps east of where you fought. *The old boar keeps to the woods north of here. Do not let it reach you first.*
+
+![](images/quests/grimtusk-02.png)
+
+A fight of Bindrune against Grimtusk, the old boar, level 20. This foe is only here while this step of the story is playing. Walk into it when you are ready.
+
+**Return to Ingvar the elder**
+
+About 17 steps south of Grimtusk, the old boar.
+
+![](images/quests/grimtusk-03.png)
+
+> A clean end, then. Freyja rides a boar to war, they say. Take her boar, and remember this one.
+
+Reward: 246 gold, 1644 XP, the card Hildisvíni.
+
+### Webs on the high road
+
+*Level 18 · given by Asta the elder in Thrymheim · 2 steps*
+
+**Taking it up.** Find Asta the elder in Thrymheim, about 200 steps east of Eikthorp.
+
+![](images/quests/web-mother-00.png)
+
+> Webs hang across the high road, and the goats that walk into them do not come out. Travellers who pass come down with a fever. Ingvar, the healer in Nidavellir, has seen the bites. Ask him what spins them, then end it.
+
+**1. Ask Ingvar the healer in Nidavellir about the fever**
+
+Where: Ingvar the healer, in Nidavellir. About 70 steps north of Asta the elder. *Ingvar, the healer of Nidavellir, north of here, has been treating the bitten.*
+
+![](images/quests/web-mother-01.png)
+
+> Fever, swelling, and a bite the size of a coin. No common spider does that. Only an old mother spins webs that strong. Burn her out in the east of Thrymheim, and bring none of her back here, please.
+
+Then press "I will go".
+
+**2. Bring down the Web-Mother in the east of Thrymheim**
+
+Where: The Web-Mother, level 20, in Thrymheim. About 80 steps south of Ingvar the healer. *East of here, where the webs are thickest. Mind the venom.*
+
+![](images/quests/web-mother-02.png)
+
+A fight of Bindrune against The Web-Mother, level 20. This foe is only here while this step of the story is playing. Walk into it when you are ready.
+
+**Return to Asta the elder**
+
+About 16 steps north-west of The Web-Mother.
+
+![](images/quests/web-mother-03.png)
+
+> No more webs and no more fever. Take these draughts from Ingvar and me; you will meet worse than spiders before long.
+
+Reward: 246 gold, 1644 XP, 3 × Strong draught.
+
+### Keep the high road
+
+*Level 19 · given by Asta the elder in Thrymheim · after Webs on the high road · 1 step*
+
+**Taking it up.** Find Asta the elder in Thrymheim, about 200 steps east of Eikthorp.
+
+![](images/quests/keep-the-high-road-00.png)
+
+> With the Web-Mother gone, everything else on the high road thinks it is its turn. Bring down eight of whatever you meet in Thrymheim and the traders will come back.
+
+**1. Win 8 fights against anything that roams Thrymheim.**
+
+Where: Thrymheim. About 9 steps south-east of Asta the elder. *Eight of anything that walks the roads of Thrymheim and bites.*
+
+![](images/quests/keep-the-high-road-01.png)
+
+Win 8 fights against anything that roams Thrymheim.
+
+**Return to Asta the elder**
+
+About 9 steps north-west of where you fought.
+
+![](images/quests/keep-the-high-road-02.png)
+
+> The traders are on the road again, and they ask who cleared it. Here, a völva's card for a road-keeper.
+
+Reward: 230 gold, 1463 XP, the card Völva of Sessrúmnir.
+
 ## The hamlets
 
-Every generated land with a hamlet has an elder with two jobs: cull the land's commonest beast, then open its old strongbox, which pays a card as well. They are the same everywhere, so here they are as one table. The bearing is from Eikthorp.
+Every generated land has an elder with two jobs: cull the land's commonest beast, then open its old strongbox, which pays a card as well. From level 20 up the elder has two more for the top of the land's levels, when the next lands are not yet open: thin out the beasts that run ahead of the land's old one and bring it down (it stands south-west of the crossroads only while that step is under way), then bring down any eight beasts in the land, for another card. They are the same everywhere, so here they are as one table. The bearing is from Eikthorp.
 
-| Land | Levels | Elder | Where | Cull | Strongbox card |
-| --- | --- | --- | --- | --- | --- |
-| Nidavellir | 12 to 17 | Vigdis the elder | about 190 steps east | 4 × Bandit | Huscarl |
-| Jarnskog | 21 to 26 | Einar the elder | about 260 steps east | 4 × Orc warrior | Huscarl |
-| Solhaug | 29 to 34 | Frida the elder | about 330 steps east | 4 × Orc warrior | Huscarl |
-| Alfheim | 38 to 43 | Ketil the elder | about 380 steps east | 4 × Orc brute | Huginn |
-| Elivagar | 46 to 51 | Ragna the elder | about 450 steps east | 4 × Minotaur | Huginn |
-| Grjotunagard | 55 to 60 | Yngve the elder | about 520 steps east | 4 × Black knight | Valkyrie Chooser |
-| Svartfjall | 63 to 68 | Arne the elder | about 570 steps east | 4 × Black knight | Valkyrie Chooser |
-| Thrymheim | 14 to 19 | Asta the elder | about 200 steps east | 4 × Bandit | Huscarl |
-| Frostnes | 23 to 28 | Birger the elder | about 250 steps east | 4 × Orc warrior | Huscarl |
-| Gullskog | 31 to 36 | Hilde the elder | about 330 steps east | 4 × Orc brute | Huginn |
-| Gymisgard | 40 to 45 | Magnus the elder | about 390 steps east | 4 × Orc brute | Huginn |
-| Jarnholt | 48 to 53 | Tova the elder | about 450 steps east | 4 × Minotaur | Huginn |
-| Helheim | 57 to 62 | Brynjar the elder | about 520 steps east | 4 × Black knight | Valkyrie Chooser |
-| Alfberg | 65 to 70 | Dagny the elder | about 580 steps east | 4 × Black knight | Valkyrie Chooser |
-| Helvik | 13 to 18 | Ingvar the elder | about 130 steps south | 4 × Bandit | Huscarl |
-| Ormstrand | 13 to 18 | Nanna the elder | about 130 steps south-east | 4 × Bandit | Huscarl |
-| Askmark | 13 to 18 | Ulla the elder | about 140 steps south-east | 4 × Bandit | Huscarl |
-| Eldmose | 22 to 27 | Dis the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl |
-| Nottvang | 30 to 35 | Eirik the elder | about 260 steps south-east | 4 × Orc brute | Huginn |
-| Thursnes | 39 to 44 | Jorunn the elder | about 320 steps south-east | 4 × Orc brute | Huginn |
-| Hlesey | 47 to 52 | Orvar the elder | about 390 steps east | 4 × Minotaur | Huginn |
-| Frosthaug | 56 to 61 | Vigdis the elder | about 450 steps east | 4 × Black knight | Valkyrie Chooser |
-| Breidablik | 64 to 69 | Einar the elder | about 510 steps east | 4 × Black knight | Valkyrie Chooser |
-| Grimfell | 73 to 78 | Frida the elder | about 580 steps east | 4 × Lich | Mountain-Kin |
-| Vanaheim | 21 to 26 | Ketil the elder | about 200 steps south | 4 × Orc warrior | Huscarl |
-| Draugvik | 21 to 26 | Ragna the elder | about 200 steps south | 4 × Orc warrior | Huscarl |
-| Isastrand | 21 to 26 | Yngve the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl |
-| Helmark | 29 to 34 | Arne the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl |
-| Ormmose | 38 to 43 | Gunnar the elder | about 260 steps south-east | 4 × Orc brute | Huginn |
-| Askvang | 46 to 51 | Liv the elder | about 330 steps south-east | 4 × Minotaur | Huginn |
-| Eldnes | 55 to 60 | Sten the elder | about 380 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Nottskog | 63 to 68 | Asta the elder | about 450 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Thurshaug | 72 to 77 | Birger the elder | about 520 steps east | 4 × Lich | Mountain-Kin |
-| Himinbjorg | 80 to 85 | Hilde the elder | about 570 steps east | 4 × Lich | Mountain-Kin |
-| Bjorney | 31 to 36 | Magnus the elder | about 260 steps south | 4 × Orc brute | Huginn |
-| Runelund | 31 to 36 | Tova the elder | about 270 steps south | 4 × Orc brute | Huginn |
-| Lyngvi | 31 to 36 | Brynjar the elder | about 260 steps south-east | 4 × Orc brute | Huginn |
-| Vindstrand | 40 to 45 | Dagny the elder | about 260 steps south-east | 4 × Orc brute | Huginn |
-| Draugmark | 48 to 53 | Ingvar the elder | about 270 steps south-east | 4 × Minotaur | Huginn |
-| Isamose | 57 to 62 | Nanna the elder | about 330 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Helvang | 65 to 70 | Ulla the elder | about 390 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Ormnes | 74 to 79 | Dis the elder | about 450 steps south-east | 4 × Lich | Mountain-Kin |
-| Askskog | 82 to 87 | Eirik the elder | about 520 steps south-east | 4 × Phoenix | Mountain-Kin |
-| Eldhaug | 91 to 96 | Jorunn the elder | about 580 steps south-east | 4 × Phoenix | Fenrir |
-| Svarthals | 39 to 44 | Orvar the elder | about 320 steps south | 4 × Orc brute | Huginn |
-| Hargey | 39 to 44 | Vigdis the elder | about 320 steps south | 4 × Orc brute | Huginn |
-| Myrlund | 39 to 44 | Einar the elder | about 330 steps south | 4 × Orc brute | Huginn |
-| Bjornvik | 47 to 52 | Frida the elder | about 320 steps south-east | 4 × Minotaur | Huginn |
-| Runestrand | 56 to 61 | Ketil the elder | about 320 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Skarnmark | 64 to 69 | Ragna the elder | about 330 steps south-east | 4 × Black knight | Valkyrie Chooser |
-| Vindmose | 73 to 78 | Yngve the elder | about 390 steps south-east | 4 × Lich | Mountain-Kin |
-| Draugvang | 81 to 86 | Arne the elder | about 450 steps south-east | 4 × Phoenix | Mountain-Kin |
-| Hoddmimis Holt | 90 to 95 | Gunnar the elder | about 510 steps south-east | 4 × Phoenix | Fenrir |
-| Vigrid | 97 to 99 | Liv the elder | about 580 steps south-east | 4 × Phoenix | Fenrir |
+| Land | Levels | Elder | Where | Cull | Strongbox card | The old one | Roads card |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nidavellir | 12 to 17 | Vigdis the elder | about 190 steps east | 4 × Bandit | Huscarl |  |  |
+| Jarnskog | 21 to 26 | Einar the elder | about 260 steps east | 4 × Orc warrior | Huscarl | Goblin chief, level 29 (from level 25) | Huscarl |
+| Solhaug | 29 to 34 | Frida the elder | about 330 steps east | 4 × Orc warrior | Huscarl | Goblin chief, level 37 (from level 33) | Huginn |
+| Alfheim | 38 to 43 | Ketil the elder | about 380 steps east | 4 × Orc brute | Huginn | Treant, level 46 (from level 42) | Huginn |
+| Elivagar | 46 to 51 | Ragna the elder | about 450 steps east | 4 × Minotaur | Huginn | Lizard chieftain, level 54 (from level 50) | Valkyrie Chooser |
+| Grjotunagard | 55 to 60 | Yngve the elder | about 520 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 63 (from level 59) | Valkyrie Chooser |
+| Svartfjall | 63 to 68 | Arne the elder | about 570 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 71 (from level 67) | Valkyrie Chooser |
+| Thrymheim | 14 to 19 | Asta the elder | about 200 steps east | 4 × Bandit | Huscarl |  |  |
+| Frostnes | 23 to 28 | Birger the elder | about 250 steps east | 4 × Orc warrior | Huscarl | Goblin chief, level 31 (from level 27) | Huscarl |
+| Gullskog | 31 to 36 | Hilde the elder | about 330 steps east | 4 × Orc brute | Huginn | Treant, level 39 (from level 35) | Huginn |
+| Gymisgard | 40 to 45 | Magnus the elder | about 390 steps east | 4 × Orc brute | Huginn | Treant, level 48 (from level 44) | Huginn |
+| Jarnholt | 48 to 53 | Tova the elder | about 450 steps east | 4 × Minotaur | Huginn | Lizard chieftain, level 56 (from level 52) | Valkyrie Chooser |
+| Helheim | 57 to 62 | Brynjar the elder | about 520 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 65 (from level 61) | Valkyrie Chooser |
+| Alfberg | 65 to 70 | Dagny the elder | about 580 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 73 (from level 69) | Mountain-Kin |
+| Helvik | 13 to 18 | Ingvar the elder | about 130 steps south | 4 × Bandit | Huscarl |  |  |
+| Ormstrand | 13 to 18 | Nanna the elder | about 130 steps south-east | 4 × Bandit | Huscarl |  |  |
+| Askmark | 13 to 18 | Ulla the elder | about 140 steps south-east | 4 × Bandit | Huscarl |  |  |
+| Eldmose | 22 to 27 | Dis the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl | Goblin chief, level 30 (from level 26) | Huscarl |
+| Nottvang | 30 to 35 | Eirik the elder | about 260 steps south-east | 4 × Orc brute | Huginn | Treant, level 38 (from level 34) | Huginn |
+| Thursnes | 39 to 44 | Jorunn the elder | about 320 steps south-east | 4 × Orc brute | Huginn | Treant, level 47 (from level 43) | Huginn |
+| Hlesey | 47 to 52 | Orvar the elder | about 390 steps east | 4 × Minotaur | Huginn | Lizard chieftain, level 55 (from level 51) | Valkyrie Chooser |
+| Frosthaug | 56 to 61 | Vigdis the elder | about 450 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 64 (from level 60) | Valkyrie Chooser |
+| Breidablik | 64 to 69 | Einar the elder | about 510 steps east | 4 × Black knight | Valkyrie Chooser | Drake, level 72 (from level 68) | Valkyrie Chooser |
+| Grimfell | 73 to 78 | Frida the elder | about 580 steps east | 4 × Lich | Mountain-Kin | Storm elemental, level 81 (from level 77) | Mountain-Kin |
+| Vanaheim | 21 to 26 | Ketil the elder | about 200 steps south | 4 × Orc warrior | Huscarl | Goblin chief, level 29 (from level 25) | Huscarl |
+| Draugvik | 21 to 26 | Ragna the elder | about 200 steps south | 4 × Orc warrior | Huscarl | Goblin chief, level 29 (from level 25) | Huscarl |
+| Isastrand | 21 to 26 | Yngve the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl | Goblin chief, level 29 (from level 25) | Huscarl |
+| Helmark | 29 to 34 | Arne the elder | about 200 steps south-east | 4 × Orc warrior | Huscarl | Goblin chief, level 37 (from level 33) | Huginn |
+| Ormmose | 38 to 43 | Gunnar the elder | about 260 steps south-east | 4 × Orc brute | Huginn | Treant, level 46 (from level 42) | Huginn |
+| Askvang | 46 to 51 | Liv the elder | about 330 steps south-east | 4 × Minotaur | Huginn | Lizard chieftain, level 54 (from level 50) | Valkyrie Chooser |
+| Eldnes | 55 to 60 | Sten the elder | about 380 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 63 (from level 59) | Valkyrie Chooser |
+| Nottskog | 63 to 68 | Asta the elder | about 450 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 71 (from level 67) | Valkyrie Chooser |
+| Thurshaug | 72 to 77 | Birger the elder | about 520 steps east | 4 × Lich | Mountain-Kin | Storm elemental, level 80 (from level 76) | Mountain-Kin |
+| Himinbjorg | 80 to 85 | Hilde the elder | about 570 steps east | 4 × Lich | Mountain-Kin | Storm elemental, level 88 (from level 84) | Mountain-Kin |
+| Bjorney | 31 to 36 | Magnus the elder | about 260 steps south | 4 × Orc brute | Huginn | Treant, level 39 (from level 35) | Huginn |
+| Runelund | 31 to 36 | Tova the elder | about 270 steps south | 4 × Orc brute | Huginn | Treant, level 39 (from level 35) | Huginn |
+| Lyngvi | 31 to 36 | Brynjar the elder | about 260 steps south-east | 4 × Orc brute | Huginn | Treant, level 39 (from level 35) | Huginn |
+| Vindstrand | 40 to 45 | Dagny the elder | about 260 steps south-east | 4 × Orc brute | Huginn | Treant, level 48 (from level 44) | Huginn |
+| Draugmark | 48 to 53 | Ingvar the elder | about 270 steps south-east | 4 × Minotaur | Huginn | Lizard chieftain, level 56 (from level 52) | Valkyrie Chooser |
+| Isamose | 57 to 62 | Nanna the elder | about 330 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 65 (from level 61) | Valkyrie Chooser |
+| Helvang | 65 to 70 | Ulla the elder | about 390 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 73 (from level 69) | Mountain-Kin |
+| Ormnes | 74 to 79 | Dis the elder | about 450 steps south-east | 4 × Lich | Mountain-Kin | Storm elemental, level 82 (from level 78) | Mountain-Kin |
+| Askskog | 82 to 87 | Eirik the elder | about 520 steps south-east | 4 × Phoenix | Mountain-Kin | Brood of Fenrir, level 90 (from level 86) | Mountain-Kin |
+| Eldhaug | 91 to 96 | Jorunn the elder | about 580 steps south-east | 4 × Phoenix | Fenrir | Brood of Fenrir, level 99 (from level 95) | Fenrir |
+| Svarthals | 39 to 44 | Orvar the elder | about 320 steps south | 4 × Orc brute | Huginn | Treant, level 47 (from level 43) | Huginn |
+| Hargey | 39 to 44 | Vigdis the elder | about 320 steps south | 4 × Orc brute | Huginn | Treant, level 47 (from level 43) | Huginn |
+| Myrlund | 39 to 44 | Einar the elder | about 330 steps south | 4 × Orc brute | Huginn | Treant, level 47 (from level 43) | Huginn |
+| Bjornvik | 47 to 52 | Frida the elder | about 320 steps south-east | 4 × Minotaur | Huginn | Lizard chieftain, level 55 (from level 51) | Valkyrie Chooser |
+| Runestrand | 56 to 61 | Ketil the elder | about 320 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 64 (from level 60) | Valkyrie Chooser |
+| Skarnmark | 64 to 69 | Ragna the elder | about 330 steps south-east | 4 × Black knight | Valkyrie Chooser | Drake, level 72 (from level 68) | Valkyrie Chooser |
+| Vindmose | 73 to 78 | Yngve the elder | about 390 steps south-east | 4 × Lich | Mountain-Kin | Storm elemental, level 81 (from level 77) | Mountain-Kin |
+| Draugvang | 81 to 86 | Arne the elder | about 450 steps south-east | 4 × Phoenix | Mountain-Kin | Brood of Fenrir, level 89 (from level 85) | Mountain-Kin |
+| Hoddmimis Holt | 90 to 95 | Gunnar the elder | about 510 steps south-east | 4 × Phoenix | Fenrir | Brood of Fenrir, level 98 (from level 94) | Fenrir |
+| Vigrid | 97 to 99 | Liv the elder | about 580 steps south-east | 4 × Phoenix | Fenrir | Brood of Fenrir, level 99 (from level 98) | Fenrir |
