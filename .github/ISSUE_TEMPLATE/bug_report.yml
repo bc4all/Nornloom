@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in Nornloom went wrong.
+description: "Something in Nornloom or Nornloom: Wolf Age went wrong."
 title: "[Bug] "
 labels: ["bug"]
 body:
@@ -7,6 +7,16 @@ body:
     attributes:
       value: |
         Thank you. A few details make a bug much quicker to find.
+  - type: dropdown
+    id: game
+    attributes:
+      label: Which game
+      options:
+        - Nornloom (the card adventure, nornloom.com/play)
+        - "Nornloom: Wolf Age (the action game, fight.nornloom.com)"
+        - Both, or the nornloom.com page that picks one
+    validations:
+      required: true
   - type: textarea
     id: what
     attributes:
@@ -28,8 +38,8 @@ body:
     id: hero
     attributes:
       label: Your hero
-      description: Level, and the peoples of the deck you were playing.
-      placeholder: Level 3, Æsir and Vanir
+      description: Level, and the peoples of your deck (Nornloom) or your class (Wolf Age).
+      placeholder: Level 3, Æsir and Vanir / Level 12, Huntress
   - type: input
     id: browser
     attributes:

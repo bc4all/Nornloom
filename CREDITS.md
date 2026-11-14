@@ -1,8 +1,10 @@
 # Credits
 
-Nornloom is made by KB Info Krzysztof Bialowas. Everything in the game that is not ours is listed
-here with its author, its source and its licence. The game's source and the raw art files live in a
-private repository; this page is the public copy of the credits file kept there.
+Nornloom and Nornloom: Wolf Age are made by KB Info Krzysztof Bialowas. Everything in the two games
+that is not ours is listed here with its author, its source and its licence. Wolf Age uses the same
+art, fonts, music and sounds as the card adventure; what only one of the games uses is said where it
+is listed. The games' source and the raw art files live in private repositories; this page is the
+public copy of the credits files kept there.
 
 ## Art: Time Fantasy by finalbossblues
 
@@ -20,6 +22,9 @@ which is why the game's source repository, with the raw sheets in it, is private
 | The monsters on the map and the battlers on the saga cards | Time Fantasy RPG Sprites 2 (with Monsters) | https://finalbossblues.itch.io/time-fantasy-monsters |
 | The item icons and the art of the forged cards | 1000+ Fantasy RPG Icons | https://finalbossblues.itch.io/icons |
 | The portraits | Time Fantasy Faces | https://finalbossblues.itch.io/tf-faces |
+
+In Wolf Age the hero's horse is the saddled bay from Time Fantasy RPG Sprites 2. The sparks, slashes
+and other effects of its fights are our own, drawn by the game's build scripts.
 
 The sprites are cropped, scaled and recoloured by the game's build scripts. The recolours are ours;
 the drawings are the author's.
