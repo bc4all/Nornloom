@@ -15,6 +15,7 @@ New:
   steel axes on ember for the Wolf Age. The card adventure's title screen is at
   [nornloom.com/play](https://nornloom.com/play), and a button there takes you back to the choice.
   The Android app is unchanged.
+- **Wolf Age comes first** on nornloom.com's choice now, the card adventure beside it.
 - **How to play and a quest guide for each game.** Each game's card on nornloom.com now has two
   more buttons: How to play, a guide in pictures one button at a time, and Quest guide, every saga
   step by step with where to go, what is said, what to fight and the riddles' answers. Wolf Age has

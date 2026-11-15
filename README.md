@@ -20,8 +20,8 @@ The two games tell that story in two ways, the action game first:
 | **How to play, in pictures** | [Your first steps](wolf-age/TUTORIAL.md) | [Your first duel](TUTORIAL.md) |
 | **Quest guide** | [The Skald's Road](wolf-age/QUESTS.md) (also on the game's site: [fight.nornloom.com/guide](https://fight.nornloom.com/guide)) | [The Skald's Road](QUESTS.md) |
 | Questions players ask | [FAQ](wolf-age/FAQ.md) | [FAQ](FAQ.md) |
-| The rules in full | In the game: Help (About, Getting started, Fighting, Your hero, Step by step, FAQ) | [The Bindrune handbook](BINDRUNE.md) |
-| What changed | Not kept yet | [Release notes](RELEASE_NOTES.md) |
+| The rules in full | [The Wolf Age handbook](wolf-age/HANDBOOK.md) | [The Bindrune handbook](BINDRUNE.md) |
+| What changed | [Release notes](wolf-age/RELEASE_NOTES.md) | [Release notes](RELEASE_NOTES.md) |
 
 [nornloom.com](https://nornloom.com) opens on a page where you pick one. The heroes of the two games
 are separate: a hero made in one does not walk into the other.
@@ -41,7 +41,8 @@ you can hunt together, trade at the market and take a party into the raid halls.
 | To learn to play, one button at a time | [wolf-age/TUTORIAL.md](wolf-age/TUTORIAL.md), your first steps in pictures: making a hero, the screen, the first quest, a fight, the bag, the skills, the map, the waystones and a fall, each with a phone screenshot, and every control in two tables. |
 | Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [wolf-age/QUESTS.md](wolf-age/QUESTS.md), The Skald's Road for Wolf Age: every saga step by step with a screenshot of each, from [The Waking](wolf-age/QUESTS.md#the-waking) to [Ragnarök](wolf-age/QUESTS.md#ragnarök), the [side sagas](wolf-age/QUESTS.md#the-side-sagas), the [village work](wolf-age/QUESTS.md#village-work) and [the hamlets](wolf-age/QUESTS.md#the-hamlets). In the game, each quest in the quest log links its own page. |
 | Questions players ask | [wolf-age/FAQ.md](wolf-age/FAQ.md), the same as the FAQ in the game's help book. |
-| The rules in full | In the game, press Help: About, Getting started, Fighting, Your hero, Step by step and the FAQ. |
+| The rules in full | [wolf-age/HANDBOOK.md](wolf-age/HANDBOOK.md), the handbook: every class and its arts, every skill of every tree, the spells, the gods, the armour sets, every land and its beasts, the strongholds, the raid halls and what comes after the story, with the game's own numbers. |
+| What changed, and which bugs are fixed | [wolf-age/RELEASE_NOTES.md](wolf-age/RELEASE_NOTES.md). |
 
 ## Nornloom, the card adventure
 
