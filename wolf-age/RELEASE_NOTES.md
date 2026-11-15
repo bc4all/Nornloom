@@ -4,7 +4,7 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 
 ## 15 November 2026
 
-- **A horse is now a mark of wealth**: Eyvind the stablehand asks 100000 gold for one, not 250. Most heroes walk the roads for a long while before they can buy one. If you already ride a horse, it stays yours.
+- **A horse is now a mark of wealth**: it costs 100000 gold, not 250, and only the hamlets of the lands from level 30 keep a stable. Eikthorp has none any more. Horses bought before this change have gone back to the stable.
 - **The handbook**: the rules in full, printed from the game's own numbers. Every class and its arts, every skill of every tree, the spells, the gods, the armour sets, every land with its beasts, the strongholds, the raid halls and what comes after the story. Help links it from every page.
 - **First steps in pictures**: a guide for new players, from making a hero to the first fight, the bag, the skills, the map and a fall.
 - **Help knows the shared worlds are open** and links the guides, the FAQ and the walkthrough.

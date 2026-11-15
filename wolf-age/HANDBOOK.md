@@ -41,7 +41,7 @@ New to the game? Start with [your first steps](TUTORIAL.md). Looking for a quest
 | Rest after a fight | 5 s without a blow; health full in 3 min, mana in 2 |
 | A healer's rest | 5 gold a level |
 | A fall | wake with 25% health, lose 10% of the gold carried, and one time in 10 a worn piece breaks |
-| A horse | 100000 gold, from level 5 |
+| A horse | 100000 gold, at a stable in a hamlet of the lands from level 30 |
 | Honing at the forge | up to +5 |
 | Bounties | 3 a day and one a week |
 | A raid party | 2 to 4 heroes |
