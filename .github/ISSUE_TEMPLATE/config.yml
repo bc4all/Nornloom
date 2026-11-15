@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Play Nornloom, the card adventure
-    url: https://nornloom.com/play
-    about: The card game in the browser. How to play and the rules of Bindrune are on the title screen; the first duel in pictures is TUTORIAL.md here.
   - name: "Play Nornloom: Wolf Age, the action game"
     url: https://fight.nornloom.com
     about: The action game in the browser. How to play is on the title screen; the first steps in pictures are wolf-age/TUTORIAL.md here.
+  - name: Play Nornloom, the card adventure
+    url: https://nornloom.com/play
+    about: The card game in the browser. How to play and the rules of Bindrune are on the title screen; the first duel in pictures is TUTORIAL.md here.
