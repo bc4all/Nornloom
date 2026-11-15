@@ -137,7 +137,7 @@ Press **Map**. Each square is a land, with the levels of its beasts. Tap one to 
 
 ![The waystone of Eikthorp](images/tutorial-15-waystone.jpg)
 
-Every land has a **waystone**, a rune pillar. Walk into one and it knows you. From then on any waystone can carry you home, or to any other waystone you know, for a small toll. Beside a village's waystone you can make that village your home, and your chest waits there. From level 5, Eyvind by the east gate sells a horse for 250 gold: much faster on the roads.
+Every land has a **waystone**, a rune pillar. Walk into one and it knows you. From then on any waystone can carry you home, or to any other waystone you know, for a small toll. Beside a village's waystone you can make that village your home, and your chest waits there. Eyvind by the east gate sells horses. A horse is much faster on the roads, but it costs 100000 gold, so most heroes walk for a long time before they can buy one.
 
 ### 16. A fall
 
