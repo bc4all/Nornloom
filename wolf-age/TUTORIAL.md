@@ -182,5 +182,5 @@ The same two tables as the game's help book (Help, then Getting started and Figh
 
 - **Stuck on a quest?** [The Skald's Road](QUESTS.md), the quest guide: every saga step by step, with where to go, what is said, what to fight, the riddles' answers and the rewards. It is on the game's own site too: [fight.nornloom.com/guide](https://fight.nornloom.com/guide).
 - **A question?** [The FAQ](FAQ.md), the same questions and answers as the game's help book.
-- **The rules in full?** In the game, press **Help**: About, Getting started, Fighting, Your hero, Step by step and the FAQ.
+- **The rules in full?** [The handbook](HANDBOOK.md): every class, art, skill, spell, god, armour set and land with its numbers. In the game, press **Help**.
 - **Found a bug or have an idea?** The [issue forms](https://github.com/bc4all/Nornloom/issues/new/choose) of this repository.

@@ -10,21 +10,39 @@ Every main quest is a real myth from the Eddas, and the myths keep their real en
 Elli. Týr loses his hand. Baldr dies and cannot be saved. You shape how events unfold, never how
 they end.
 
-The two games tell that story in two ways:
+The two games tell that story in two ways, the action game first:
 
-| | **Nornloom**, the card adventure | **Nornloom: Wolf Age**, the action game |
+| | **Nornloom: Wolf Age**, the action game | **Nornloom**, the card adventure |
 | --- | --- | --- |
-| How you fight | Every fight is a hand of **Bindrune**, a card game, played with the deck you build from six peoples | In real time, right on the map: strike, use your class's arts and spells, roll out of the blows |
-| Your hero grows by | Cards, gear and levels | Gear, levels and a skill tree for one of four classes |
-| Play it | [nornloom.com/play](https://nornloom.com/play) | [fight.nornloom.com](https://fight.nornloom.com) |
-| **How to play, in pictures** | [Your first duel](TUTORIAL.md) | [Your first steps](wolf-age/TUTORIAL.md) |
-| **Quest guide** | [The Skald's Road](QUESTS.md) | [The Skald's Road](wolf-age/QUESTS.md) (also on the game's site: [fight.nornloom.com/guide](https://fight.nornloom.com/guide)) |
-| Questions players ask | [FAQ](FAQ.md) | [FAQ](wolf-age/FAQ.md) |
-| The rules in full | [The Bindrune handbook](BINDRUNE.md) | In the game: Help (About, Getting started, Fighting, Your hero, Step by step, FAQ) |
-| What changed | [Release notes](RELEASE_NOTES.md) | Not kept yet |
+| How you fight | In real time, right on the map: strike, use your class's arts and spells, roll out of the blows | Every fight is a hand of **Bindrune**, a card game, played with the deck you build from six peoples |
+| Your hero grows by | Gear, levels and a skill tree for one of four classes | Cards, gear and levels |
+| Play it | [fight.nornloom.com](https://fight.nornloom.com) | [nornloom.com/play](https://nornloom.com/play) |
+| **How to play, in pictures** | [Your first steps](wolf-age/TUTORIAL.md) | [Your first duel](TUTORIAL.md) |
+| **Quest guide** | [The Skald's Road](wolf-age/QUESTS.md) (also on the game's site: [fight.nornloom.com/guide](https://fight.nornloom.com/guide)) | [The Skald's Road](QUESTS.md) |
+| Questions players ask | [FAQ](wolf-age/FAQ.md) | [FAQ](FAQ.md) |
+| The rules in full | [The Wolf Age handbook](wolf-age/HANDBOOK.md) | [The Bindrune handbook](BINDRUNE.md) |
+| What changed | [Release notes](wolf-age/RELEASE_NOTES.md) | [Release notes](RELEASE_NOTES.md) |
 
 [nornloom.com](https://nornloom.com) opens on a page where you pick one. The heroes of the two games
 are separate: a hero made in one does not walk into the other.
+
+## Nornloom: Wolf Age, the action game
+
+[![A Berserker fights a slime in Ashgrove Meadows, on a phone](wolf-age/images/tutorial-09-strike.jpg)](wolf-age/TUTORIAL.md)
+
+The same world and the same myths, fought in real time. There is no fight screen: beasts roam the
+map, notice you and come for you, and you fight where you stand. Choose a class (Berserker,
+Shieldmaiden, Huntress or Seidr-worker), grow its skill tree, wear the gear you find and forge, and
+climb from level 1 to 99. Played alone, or signed in with other players in the shared worlds, where
+you can hunt together, trade at the market and take a party into the raid halls.
+
+| You want | Go to |
+| --- | --- |
+| To learn to play, one button at a time | [wolf-age/TUTORIAL.md](wolf-age/TUTORIAL.md), your first steps in pictures: making a hero, the screen, the first quest, a fight, the bag, the skills, the map, the waystones and a fall, each with a phone screenshot, and every control in two tables. |
+| Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [wolf-age/QUESTS.md](wolf-age/QUESTS.md), The Skald's Road for Wolf Age: every saga step by step with a screenshot of each, from [The Waking](wolf-age/QUESTS.md#the-waking) to [Ragnarök](wolf-age/QUESTS.md#ragnarök), the [side sagas](wolf-age/QUESTS.md#the-side-sagas), the [village work](wolf-age/QUESTS.md#village-work) and [the hamlets](wolf-age/QUESTS.md#the-hamlets). In the game, each quest in the quest log links its own page. |
+| Questions players ask | [wolf-age/FAQ.md](wolf-age/FAQ.md), the same as the FAQ in the game's help book. |
+| The rules in full | [wolf-age/HANDBOOK.md](wolf-age/HANDBOOK.md), the handbook: every class and its arts, every skill of every tree, the spells, the gods, the armour sets, every land and its beasts, the strongholds, the raid halls and what comes after the story, with the game's own numbers. |
+| What changed, and which bugs are fixed | [wolf-age/RELEASE_NOTES.md](wolf-age/RELEASE_NOTES.md). |
 
 ## Nornloom, the card adventure
 
@@ -81,31 +99,14 @@ built, so when a rule changes the page changes with the next release.
 - [Dictionary](BINDRUNE.md#dictionary): the words of the board and the table, A to Z.
 - [Saying the names](BINDRUNE.md#saying-the-names): how to say Megin, Blót, Seiðr and the rest.
 
-## Nornloom: Wolf Age, the action game
-
-[![A Berserker fights a slime in Ashgrove Meadows, on a phone](wolf-age/images/tutorial-09-strike.jpg)](wolf-age/TUTORIAL.md)
-
-The same world and the same myths, fought in real time. There is no fight screen: beasts roam the
-map, notice you and come for you, and you fight where you stand. Choose a class (Berserker,
-Shieldmaiden, Huntress or Seidr-worker), grow its skill tree, wear the gear you find and forge, and
-climb from level 1 to 99. Played alone, or signed in with other players in the shared worlds, where
-you can hunt together, trade at the market and take a party into the raid halls.
-
-| You want | Go to |
-| --- | --- |
-| To learn to play, one button at a time | [wolf-age/TUTORIAL.md](wolf-age/TUTORIAL.md), your first steps in pictures: making a hero, the screen, the first quest, a fight, the bag, the skills, the map, the waystones and a fall, each with a phone screenshot, and every control in two tables. |
-| Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [wolf-age/QUESTS.md](wolf-age/QUESTS.md), The Skald's Road for Wolf Age: every saga step by step with a screenshot of each, from [The Waking](wolf-age/QUESTS.md#the-waking) to [Ragnarök](wolf-age/QUESTS.md#ragnarök), the [side sagas](wolf-age/QUESTS.md#the-side-sagas), the [village work](wolf-age/QUESTS.md#village-work) and [the hamlets](wolf-age/QUESTS.md#the-hamlets). In the game, each quest in the quest log links its own page. |
-| Questions players ask | [wolf-age/FAQ.md](wolf-age/FAQ.md), the same as the FAQ in the game's help book. |
-| The rules in full | In the game, press Help: About, Getting started, Fighting, Your hero, Step by step and the FAQ. |
-
 ## What this repository is for
 
 This is the public front door of both games: **the guides, bug reports, ideas and questions**. The
 games' source and their licensed art live in private repositories, so there is no code here: this
 page, the guides, the handbook, the FAQs, the credits, the screenshots and the issue forms.
 
-- **Have a question?** Read the FAQ of your game first: the [card adventure's](FAQ.md) or
-  [Wolf Age's](wolf-age/FAQ.md). A question about a Bindrune rule, card or word is probably answered
+- **Have a question?** Read the FAQ of your game first: [Wolf Age's](wolf-age/FAQ.md) or the
+  [card adventure's](FAQ.md). A question about a Bindrune rule, card or word is probably answered
   in the [handbook](BINDRUNE.md).
 - **Found a bug?** Open a [bug report](https://github.com/bc4all/Nornloom/issues/new?template=bug_report.yml).
 - **Have an idea?** Open an [idea](https://github.com/bc4all/Nornloom/issues/new?template=idea.yml).
@@ -118,11 +119,11 @@ for the issue forms.
 
 ### What makes a good bug report
 
-- Which game: Nornloom (the cards) or Wolf Age.
+- Which game: Wolf Age or Nornloom (the cards).
 - What you did, step by step, and what you expected to happen.
 - What happened instead. A screenshot helps a great deal.
 - Where you were: the land, the quest, or the fight (the foe's name and level).
-- Your hero's level, and the peoples of your deck (Nornloom) or your class (Wolf Age).
+- Your hero's level, and your class (Wolf Age) or the peoples of your deck (Nornloom).
 - The browser and device (for example "Chrome on Windows 11" or "Safari on an iPhone 13").
 
 ### What makes a good idea

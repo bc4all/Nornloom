@@ -12,8 +12,8 @@ body:
     attributes:
       label: Which game
       options:
-        - Nornloom (the card adventure, nornloom.com/play)
         - "Nornloom: Wolf Age (the action game, fight.nornloom.com)"
+        - Nornloom (the card adventure, nornloom.com/play)
         - Both, or the nornloom.com page that picks one
     validations:
       required: true
