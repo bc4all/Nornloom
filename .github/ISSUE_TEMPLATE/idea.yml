@@ -1,5 +1,5 @@
 name: Idea
-description: Something Nornloom could do, or do better.
+description: "Something Nornloom or Nornloom: Wolf Age could do, or do better."
 title: "[Idea] "
 labels: ["idea"]
 body:
@@ -7,6 +7,16 @@ body:
     attributes:
       value: |
         The problem or the moment first, the solution second. Both are welcome.
+  - type: dropdown
+    id: game
+    attributes:
+      label: Which game
+      options:
+        - Nornloom (the card adventure, nornloom.com/play)
+        - "Nornloom: Wolf Age (the action game, fight.nornloom.com)"
+        - Both, or the nornloom.com page that picks one
+    validations:
+      required: true
   - type: textarea
     id: moment
     attributes:
@@ -31,5 +41,8 @@ body:
         - The sagas and the myths
         - Bindrune (the card game)
         - Cards and decks
+        - Fighting, classes and skills (Wolf Age)
+        - Gear, the bag and the forge
+        - Playing together online
         - The title screen, saves and sign-in
         - Something else

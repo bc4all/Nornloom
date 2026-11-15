@@ -1,31 +1,43 @@
 # Nornloom
 
-**Play it in the browser: [nornloom.com](https://nornloom.com).** Free, no adverts, nothing to buy;
-playing alone needs no account. The title screen offers seven tongues.
+**Play in the browser: [nornloom.com](https://nornloom.com).** Two games, one world. Both are free,
+with no adverts and nothing to buy, and playing alone needs no account.
+
+You play a skald-in-training from the village of Eikthorp, pulled into the roots of Yggdrasil by
+the Norn Skuld. The threads of fate are fraying because the old stories are being forgotten. You
+walk into those stories, live through them beside the gods, and carry them back so the weave holds.
+Every main quest is a real myth from the Eddas, and the myths keep their real endings. Thor loses to
+Elli. Týr loses his hand. Baldr dies and cannot be saved. You shape how events unfold, never how
+they end.
+
+The two games tell that story in two ways:
+
+| | **Nornloom**, the card adventure | **Nornloom: Wolf Age**, the action game |
+| --- | --- | --- |
+| How you fight | Every fight is a hand of **Bindrune**, a card game, played with the deck you build from six peoples | In real time, right on the map: strike, use your class's arts and spells, roll out of the blows |
+| Your hero grows by | Cards, gear and levels | Gear, levels and a skill tree for one of four classes |
+| Play it | [nornloom.com/play](https://nornloom.com/play) | [fight.nornloom.com](https://fight.nornloom.com) |
+| **How to play, in pictures** | [Your first duel](TUTORIAL.md) | [Your first steps](wolf-age/TUTORIAL.md) |
+| **Quest guide** | [The Skald's Road](QUESTS.md) | [The Skald's Road](wolf-age/QUESTS.md) (also on the game's site: [fight.nornloom.com/guide](https://fight.nornloom.com/guide)) |
+| Questions players ask | [FAQ](FAQ.md) | [FAQ](wolf-age/FAQ.md) |
+| The rules in full | [The Bindrune handbook](BINDRUNE.md) | In the game: Help (About, Getting started, Fighting, Your hero, Step by step, FAQ) |
+| What changed | [Release notes](RELEASE_NOTES.md) | Not kept yet |
+
+[nornloom.com](https://nornloom.com) opens on a page where you pick one. The heroes of the two games
+are separate: a hero made in one does not walk into the other.
+
+## Nornloom, the card adventure
 
 [![The table: the foe raids, and the hero chooses a blocker](images/board.png)](BINDRUNE.md#how-the-game-looks)
-
-Nornloom is a Norse mythology RPG, played alone or online with others. You play a skald-in-training
-from the village of Eikthorp, pulled into the roots of Yggdrasil by the Norn Skuld. The threads of
-fate are fraying because the old stories are being forgotten. You walk into those stories, live
-through them beside the gods, and carry them back so the weave holds.
-
-Every main quest is a real myth from the Eddas, and the myths keep their real endings. Thor loses
-to Elli. Týr loses his hand. Baldr dies and cannot be saved. You shape how events unfold, never how
-they end.
 
 **Bindrune** is the card game inside Nornloom. Every fight in the wild is a hand of it, the
 villagers play it too, and online the duels between heroes are hands of it. Two players build decks
 from six peoples (Æsir, Vanir, Jötnar, Dvergar, Helheim and Muspell), spend Megin, and fight until
 one side's Thread runs out. Warriors lose Armor for good as they fight, so winning still costs
-something. The short rules are in the game under Help, then Bindrune; the whole of it is the
-[Bindrune handbook](BINDRUNE.md) in this repository.
-
-## Where to look
+something. Played alone, or online with others on the worlds.
 
 | You want | Go to |
 | --- | --- |
-| To play | [nornloom.com](https://nornloom.com). How to play and About are on the title screen; in the game, Help opens the book: About, Getting started, Bindrune, Step by step, FAQ, Privacy and Terms. |
 | To learn how a fight works, one button at a time | [TUTORIAL.md](TUTORIAL.md), your first duel in pictures: Hrafn's lesson step by step with a screenshot of every press, and the order of a turn (Blót, Play, Raid, End turn) in one table. Written so a young player can follow it. |
 | Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [QUESTS.md](QUESTS.md), The Skald's Road: every saga step by step with a screenshot of each, from [The Waking](QUESTS.md#the-waking) to [Ragnarök](QUESTS.md#ragnarök), the [side sagas](QUESTS.md#the-side-sagas), the [village work](QUESTS.md#village-work) and [the hamlets](QUESTS.md#the-hamlets). |
 | The rules of Bindrune, in full | [BINDRUNE.md](BINDRUNE.md), the handbook. Its chapters are listed [below](#the-bindrune-handbook-chapter-by-chapter). |
@@ -34,11 +46,11 @@ something. The short rules are in the game under Help, then Bindrune; the whole 
 | Questions players ask | [FAQ.md](FAQ.md): [the story game](FAQ.md#the-story-game) and [playing online](FAQ.md#playing-online). |
 | What changed, release by release, and which bugs are fixed | [RELEASE_NOTES.md](RELEASE_NOTES.md). |
 | Screenshots | [How the game looks](BINDRUNE.md#how-the-game-looks) in the handbook, or the files in [images/](images). |
-| Who made what | [CREDITS.md](CREDITS.md): the [art](CREDITS.md#art-time-fantasy-by-finalbossblues), the [fonts](CREDITS.md#fonts), the [stories](CREDITS.md#the-stories), the [app icons](CREDITS.md#app-icons) and the [word list](CREDITS.md#word-list-server-only). |
-| What is kept about you, and the rules | [nornloom.com/privacy](https://nornloom.com/privacy) and [nornloom.com/terms](https://nornloom.com/terms), the same pages as in the game's help book. |
-| To report a bug, offer an idea or ask | The [issue forms](https://github.com/bc4all/Nornloom/issues/new/choose), described [below](#what-this-repository-is-for). |
 
-## The Bindrune handbook, chapter by chapter
+In the game, How to play and About are on the title screen, and Help opens the book: About, Getting
+started, Bindrune, Step by step, FAQ, Privacy and Terms.
+
+### The Bindrune handbook, chapter by chapter
 
 Every number in [BINDRUNE.md](BINDRUNE.md) is read from the game's own rules when the page is
 built, so when a rule changes the page changes with the next release.
@@ -69,31 +81,48 @@ built, so when a rule changes the page changes with the next release.
 - [Dictionary](BINDRUNE.md#dictionary): the words of the board and the table, A to Z.
 - [Saying the names](BINDRUNE.md#saying-the-names): how to say Megin, Blót, Seiðr and the rest.
 
+## Nornloom: Wolf Age, the action game
+
+[![A Berserker fights a slime in Ashgrove Meadows, on a phone](wolf-age/images/tutorial-09-strike.jpg)](wolf-age/TUTORIAL.md)
+
+The same world and the same myths, fought in real time. There is no fight screen: beasts roam the
+map, notice you and come for you, and you fight where you stand. Choose a class (Berserker,
+Shieldmaiden, Huntress or Seidr-worker), grow its skill tree, wear the gear you find and forge, and
+climb from level 1 to 99. Played alone, or signed in with other players in the shared worlds, where
+you can hunt together, trade at the market and take a party into the raid halls.
+
+| You want | Go to |
+| --- | --- |
+| To learn to play, one button at a time | [wolf-age/TUTORIAL.md](wolf-age/TUTORIAL.md), your first steps in pictures: making a hero, the screen, the first quest, a fight, the bag, the skills, the map, the waystones and a fall, each with a phone screenshot, and every control in two tables. |
+| Help with a quest: where to go, who to talk to, what to fight, the riddles' answers | [wolf-age/QUESTS.md](wolf-age/QUESTS.md), The Skald's Road for Wolf Age: every saga step by step with a screenshot of each, from [The Waking](wolf-age/QUESTS.md#the-waking) to [Ragnarök](wolf-age/QUESTS.md#ragnarök), the [side sagas](wolf-age/QUESTS.md#the-side-sagas), the [village work](wolf-age/QUESTS.md#village-work) and [the hamlets](wolf-age/QUESTS.md#the-hamlets). In the game, each quest in the quest log links its own page. |
+| Questions players ask | [wolf-age/FAQ.md](wolf-age/FAQ.md), the same as the FAQ in the game's help book. |
+| The rules in full | In the game, press Help: About, Getting started, Fighting, Your hero, Step by step and the FAQ. |
+
 ## What this repository is for
 
-This is the public front door of the game: **bug reports, ideas and questions**. The game's source
-and its licensed art live in a private repository, so there is no code here: this page, the
-handbook, the quest walkthrough, the FAQ, the credits, the screenshots and the issue forms.
+This is the public front door of both games: **the guides, bug reports, ideas and questions**. The
+games' source and their licensed art live in private repositories, so there is no code here: this
+page, the guides, the handbook, the FAQs, the credits, the screenshots and the issue forms.
 
-- **Have a question?** Read the [FAQ](FAQ.md) first: the questions players ask about
-  [the story](FAQ.md#the-story-game) and about [playing online](FAQ.md#playing-online), with the
-  answers the game itself gives. A question about a rule, a card or a word is probably answered in
-  the [Bindrune handbook](BINDRUNE.md).
+- **Have a question?** Read the FAQ of your game first: the [card adventure's](FAQ.md) or
+  [Wolf Age's](wolf-age/FAQ.md). A question about a Bindrune rule, card or word is probably answered
+  in the [handbook](BINDRUNE.md).
 - **Found a bug?** Open a [bug report](https://github.com/bc4all/Nornloom/issues/new?template=bug_report.yml).
 - **Have an idea?** Open an [idea](https://github.com/bc4all/Nornloom/issues/new?template=idea.yml).
 - **Something the FAQ does not answer, or that fits neither?** Open a [blank issue](https://github.com/bc4all/Nornloom/issues/new).
 
-Before opening one, have a look through the [open issues](https://github.com/bc4all/Nornloom/issues)
-in case it is already there; a thumbs-up on an existing issue counts. The game itself points here:
-the title screen and the About page have a button for the issue forms, the Bindrune page of the
-help book links the handbook, and the FAQ page links a blank issue.
+Both forms ask which game it is about. Before opening one, have a look through the
+[open issues](https://github.com/bc4all/Nornloom/issues) in case it is already there; a thumbs-up on
+an existing issue counts. Both games point here: the title screen and the About page have a button
+for the issue forms.
 
 ### What makes a good bug report
 
+- Which game: Nornloom (the cards) or Wolf Age.
 - What you did, step by step, and what you expected to happen.
 - What happened instead. A screenshot helps a great deal.
-- Where you were: the region, the quest, or the fight (the foe's name and level).
-- Your hero's level and the peoples of the deck you were playing.
+- Where you were: the land, the quest, or the fight (the foe's name and level).
+- Your hero's level, and the peoples of your deck (Nornloom) or your class (Wolf Age).
 - The browser and device (for example "Chrome on Windows 11" or "Safari on an iPhone 13").
 
 ### What makes a good idea
@@ -104,19 +133,21 @@ help book links the handbook, and the FAQ page links a blank issue.
 
 ## Good to know
 
-- Nornloom is an early build. A solo hero is saved in the browser, on the device you play on; a
-  hero on a world lives on the world's server and follows your sign-in between devices. The
-  [FAQ](FAQ.md) says what that means in practice.
-- Saves may be reset between versions while the game is young. If that happens, it will be said
+- Both games are early builds. A solo hero is saved on the device you play on; signed in, it is kept
+  for your account too. The FAQs say what that means in practice.
+- Saves may be reset between versions while the games are young. If that happens, it will be said
   on this page.
-- The game has no ads and no tracking. Signing in sets one cookie. What is kept and why is on the
-  [privacy page](https://nornloom.com/privacy).
-- The game speaks seven tongues: English, Polish, German, Spanish, Danish, Swedish and Norwegian.
-  Card text, the villagers and the sagas still speak English.
+- The games have no ads and no tracking. Signing in sets one cookie. What is kept and why is on each
+  game's privacy page: [nornloom.com/privacy](https://nornloom.com/privacy) and
+  [fight.nornloom.com/privacy](https://fight.nornloom.com/privacy); the rules are on the terms pages
+  beside them. They are the same pages as in the games' help books.
+- Both games speak seven tongues: English, Polish, German, Spanish, Danish, Swedish and Norwegian.
+  In the card adventure, card text, the villagers and the sagas still speak English.
 
 ## Credits
 
 Art: Time Fantasy by finalbossblues (Jason Perry). Fonts: MedievalSharp (Wojciech Kalinowski),
-Press Start 2P (CodeMan38), Noto Sans Runic (the Noto Project). The stories follow the Poetic Edda
-(Bellows, 1923) and Snorri Sturluson's Prose Edda (Brodeur, 1916). Every third-party asset, with its
-author, source and licence, is listed in [CREDITS.md](CREDITS.md).
+Press Start 2P (CodeMan38), Noto Sans Runic (the Noto Project). Music and sounds: alkakrab and
+Kenney. The stories follow the Poetic Edda (Bellows, 1923) and Snorri Sturluson's Prose Edda
+(Brodeur, 1916). Every third-party asset of both games, with its author, source and licence, is
+listed in [CREDITS.md](CREDITS.md).

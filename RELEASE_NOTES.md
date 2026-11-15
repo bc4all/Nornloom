@@ -5,6 +5,24 @@ runs the latest; the Android app is released in numbered versions, and each vers
 what it carries. Bugs you report through the [issue forms](https://github.com/bc4all/Nornloom/issues/new/choose)
 are listed here when they are fixed.
 
+## On the site (November 2026)
+
+New:
+
+- **Two games, one world.** nornloom.com now opens on a choice: Nornloom, the card adventure you
+  know, or Nornloom: Wolf Age, set in the same world, where your gear and your skills do the
+  fighting instead of cards. Each game wears its own mark on its card: the gold stave for the cards,
+  steel axes on ember for the Wolf Age. The card adventure's title screen is at
+  [nornloom.com/play](https://nornloom.com/play), and a button there takes you back to the choice.
+  The Android app is unchanged.
+- **How to play and a quest guide for each game.** Each game's card on nornloom.com now has two
+  more buttons: How to play, a guide in pictures one button at a time, and Quest guide, every saga
+  step by step with where to go, what is said, what to fight and the riddles' answers. Wolf Age has
+  both now too: [its first steps in pictures](https://github.com/bc4all/Nornloom/blob/main/wolf-age/TUTORIAL.md)
+  and [its quest guide](https://github.com/bc4all/Nornloom/blob/main/wolf-age/QUESTS.md), with a
+  screenshot of every step, beside the card adventure's in the
+  [public repository](https://github.com/bc4all/Nornloom), which now presents both games.
+
 ## 0.3.2 (3 October 2026): on the site since 21 September, on Android from this version
 
 New:
