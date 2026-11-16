@@ -14,7 +14,7 @@ On the device you play on, in the browser's storage or the app's data, and nothi
 
 **Can I play with friends?**
 
-Yes. Sign in, press Play together on the title screen and take one of your heroes online. Each world holds up to 100 heroes and is peaceful or PvP; in a PvP world other heroes may fight you anywhere outside a village. Together you hunt, trade at the market, and go as a party of two to four into the raid halls.
+Yes. Sign in, press Play together on the title screen, and make a hero for the worlds or take one of your solo heroes online; an account holds up to 6 online heroes and plays one at a time. Each world holds up to 100 heroes and is peaceful or PvP; in a PvP world other heroes may fight you anywhere outside a village. Together you hunt, trade at the market, and go as a party of two to four into the raid halls.
 
 **Can I change how a myth ends?**
 
