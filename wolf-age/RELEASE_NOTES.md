@@ -4,6 +4,7 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 
 ## 16 November 2026
 
+- **A new class, the Lifeweaver**: a healer with a wand and runes of life. Its blows are the lightest of all, but it keeps others standing. Tap another hero to bind to them: Eir's Touch mends them, the Shelter Rune makes blows on them land lighter, and part of every blow you land mends them too. Alone, a Lifeweaver strikes harder and mends itself, so it plays solo as well. It has its own wands, two skill trees and three armour sets. In a PvP world, outside a village, it can mend only itself.
 - **The shared worlds play like solo**: the same screen, name tags over every hero, the Bag and the Skills, zoom in and out, smoother walking.
 - **Quests online**: villagers stand in the shared worlds and give, follow and reward quests and riddles; shops, the smith, the healer, waystones, stables and temples all work there.
 - **Strongboxes, caves and treasure maps online**: open a strongbox and fight its guardian, walk through cave mouths and stronghold gates into caves shared with your world, and dig up the hoards your maps lead to.

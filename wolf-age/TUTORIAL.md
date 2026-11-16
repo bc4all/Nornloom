@@ -40,6 +40,7 @@ Type a name or press **Roll a name**. Then choose a class, which decides how you
 | **Shieldmaiden** | Sword and shield. A blow from the front lands half as hard. Holds the line. | Shield Rush and Ring of Iron |
 | **Huntress** | Bow and quick feet. Shoots from afar; a charged shot flies hard and far. | Fox Step and Thorn Ring |
 | **Seidr-worker** | Staff and spells. Spirit bolts from afar; a song that mends friends and stings foes. | Spirit Walk and Galdr Song |
+| **Lifeweaver** | Wand and runes of life. Weaker bolts, but mends the friend you tap, or yourself. | Eir's Touch and Shelter Rune |
 
 Not sure? The **Berserker** is the simplest to start with: stand next to a beast and keep hitting. You can take up another class later, for gold, at the Skills screen.
 
