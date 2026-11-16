@@ -4,6 +4,11 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 
 ## 16 November 2026
 
+- **The shared worlds play like solo**: the same screen, name tags over every hero, the Bag and the Skills, zoom in and out, smoother walking.
+- **Quests online**: villagers stand in the shared worlds and give, follow and reward quests and riddles; shops, the smith, the healer, waystones, stables and temples all work there.
+- **Strongboxes, caves and treasure maps online**: open a strongbox and fight its guardian, walk through cave mouths and stronghold gates into caves shared with your world, and dig up the hoards your maps lead to.
+- **Ride online**: Ride and Walk work in the shared worlds, and other heroes see you in the saddle.
+- **The market is kept by the traders**: talk to Astrid, Orm or a hamlet's merchant in a shared world to buy and sell; the Play together screen no longer has a Market button.
 - **Several online heroes**: an account can now keep up to six heroes for the shared worlds. Make a new one for the worlds whenever you like, or take a solo hero online, and pick which one to play on the Play together screen. A hero you no longer want can be let go to make room.
 
 ## 15 November 2026
