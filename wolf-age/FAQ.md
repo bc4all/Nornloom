@@ -16,6 +16,10 @@ On the device you play on, in the browser's storage or the app's data, and nothi
 
 Yes. Sign in, press Play together on the title screen, and make a hero for the worlds or take one of your solo heroes online; an account holds up to 6 online heroes and plays one at a time. Each world holds up to 100 heroes and is peaceful or PvP; in a PvP world other heroes may fight you anywhere outside a village. Together you hunt, trade at the market, and go as a party of two to four into the raid halls.
 
+**How does the Lifeweaver mend others?**
+
+Tap another hero to bind to them; a green ring marks them. Eir's Touch mends them, Shelter Rune shelters them, and 20% of the harm you deal to beasts mends them too, from up to about 8 tiles away. Tap open ground to let go. With nobody bound, Eir's Touch mends whoever near you is most hurt, and your blows land harder. You can mend only heroes at peace with you: in a PvP world, off a village's safe ground, only yourself.
+
 **Can I change how a myth ends?**
 
 No. Every main saga is a real myth from the Eddas and keeps its real ending: Thor loses to Elli, Baldr dies. You choose how the story gets there, and the retelling at the end asks what happened. Where the game invents something, the quest log says so.

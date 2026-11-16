@@ -98,6 +98,8 @@ You choose a class when you make a hero. It decides your weapons, your two arts 
 |  |  | Thorn Ring | 14 | 8 s | Loose a ring of arrows all round. |
 | **Seidr-worker** | Staff and spells. Spirit bolts from afar; a song that mends friends and stings foes. | Spirit Walk | 10 | 7 s | Step through the weave and strike where you land. |
 |  |  | Galdr Song | 18 | 10 s | Mend every friend near you by a third of their health, and sting the foes about you. |
+| **Lifeweaver** | Wand and runes of life. Weaker bolts, but mends the friend you tap, or yourself. | Eir's Touch | 12 | 7 s | Mend the friend you tapped by a fifth of their health; with none tapped, whoever near is most hurt, you too. |
+|  |  | Shelter Rune | 16 | 10 s | A rune on the friend you tapped, or on you: blows land 30% lighter for 5 seconds, and it bursts on the beasts about them. |
 
 ## The skill trees
 
@@ -319,6 +321,52 @@ Health, life from every kill, and the four blessings. Its three columns: Bone, L
 
 Fire from Muspelheim, storm from Asgard, frost from Niflheim: spells for every class. The same for every class: see [the Nine Worlds](#nine-worlds) under the Berserker.
 
+### Lifeweaver
+
+#### Mending
+
+Your two arts and the bond that mends the friend you tapped. Its three columns: Eir's Touch, Bond, Shelter Rune.
+
+| Skill | Opens at | Ranks | Needs first | What it does |
+| --- | --- | --- | --- | --- |
+| Eir's Touch | 1 | 5 (top at level 43) | nothing | Mend the friend you tapped by a fifth of their health; with none tapped, whoever near is most hurt, you too. Each rank makes it stronger, +120% at rank 5. |
+| Life Thread | 6 | 5 (top at level 48) | nothing | 3% (27% at rank 5) more of the harm you deal mends the friend you tapped. |
+| Shelter Rune | 4 | 5 (top at level 46) | nothing | A rune on the friend you tapped, or on you: blows land 30% lighter for 5 seconds, and it bursts on the beasts about them. Each rank makes it stronger, +120% at rank 5. |
+| Soft Hands | 8 | 5 (top at level 50) | Eir's Touch | Eir's Touch mends 10% (90% at rank 5) more. |
+| Deep Well | 1 | 5 (top at level 43) | Life Thread | 10 (90 at rank 5) more mana. |
+| Rune Guard | 8 | 5 (top at level 50) | Shelter Rune | Shelter Rune strikes 10% (90% at rank 5) harder. |
+| Quick Hands | 12 | 5 (top at level 54) | Deep Well | Your arts are ready again 5% (45% at rank 5) sooner. |
+| Healing Spring | 20 | 1 (3 points) | Soft Hands rank 3 | Your arts cost 40% less mana. |
+| Hallowed Ground | 20 | 1 (3 points) | Rune Guard rank 3 | Your arts are ready again 15% sooner. |
+| Warm Hearth | 10 | 5 (top at level 52) | Quick Hands | Every kill gives back 2% (18% at rank 5) of your health. |
+| Second Wind | 50 | 1 (4 points) | Warm Hearth | Once a fight, when your health falls below a quarter, a third of it comes back. |
+| Eir's Blessing | 45 | 1 (4 points) | Healing Spring | Eir's Touch mends 35% more. |
+| Shelter Wall | 45 | 1 (4 points) | Hallowed Ground | Shelter Rune strikes 35% harder. |
+| Lif's Hope | 70 | 1 (5 points) | Second Wind, 15 points in the tree | 10% more of the harm you deal mends the friend you tapped. |
+
+#### Grove
+
+Health, Eir's Mending, War Cry and Iron Skin, and a well of mana that guards you. Its three columns: Bark, Life, Rune.
+
+| Skill | Opens at | Ranks | Needs first | What it does |
+| --- | --- | --- | --- | --- |
+| Oak Heart | 3 | 5 (top at level 45) | nothing | 6% (54% at rank 5) more health. |
+| Eir's Mending | 3 | 5 (top at level 45) | nothing | Spell: Heals 20% (36% at rank 5) of your health at once. |
+| War Cry | 1 | 5 (top at level 43) | nothing | Spell: Your blows land 25% (53% at rank 5) harder for 8 seconds. |
+| Bark Skin | 10 | 5 (top at level 52) | Oak Heart | 4% (36% at rank 5) more health. |
+| Blood Drinker | 8 | 5 (top at level 50) | Eir's Mending | Every kill gives back 3% (27% at rank 5) of your health. |
+| Iron Skin | 6 | 5 (top at level 48) | War Cry | Spell: Blows on you hurt 30% (50% at rank 5) less for 8 seconds. |
+| Quick Wits | 6 | 5 (top at level 48) | Iron Skin | Spells are ready again 6% (54% at rank 5) sooner. |
+| Deep Roots | 25 | 1 (3 points) | Bark Skin rank 3 | 25% of every blow you take strikes back at the beast that dealt it. |
+| Rune Lore | 12 | 5 (top at level 54) | Quick Wits | Your spells cost 4% (20% at rank 5) less mana. |
+| Mana Shield | 25 | 1 (3 points) | Blood Drinker rank 3 | 15% of every blow you take is paid from your mana, two mana for each point of health, while it lasts. |
+| Jord's Strength | 62 | 1 (5 points) | Deep Roots, 15 points in the tree | 12% more health. |
+| Valkyrie's Grace | 75 | 1 (5 points) | Mana Shield, 15 points in the tree | 3% of the harm you deal comes back to you as health. |
+
+#### Nine Worlds
+
+Fire from Muspelheim, storm from Asgard, frost from Niflheim: spells for every class. The same for every class: see [the Nine Worlds](#nine-worlds) under the Berserker.
+
 ## Spells
 
 Spells are learnt in the skill tree and cast from your 2 spell slots; the Skills screen chooses which spells sit on the buttons. Each has 5 ranks. The mana is the price up to level 30, after which it grows with your mana. Fire leaves a beast burning, frost freezes it, storm strikes all round.
@@ -358,7 +406,7 @@ On the Gods tab you pledge yourself to one god. Each gives two blessings that gr
 
 Gear goes in six slots: head, body, legs, weapon, shield and amulet. It adds health, attack, defence and mana, and better pieces add critical hits, blocks, gold or experience. Finds come common, uncommon or rare, and named treasures carry a power of their own. Smiths sell gear, healers sell draughts.
 
-Each class has its weapons: swords, axes, spears, hammers and shields for the Berserker and the Shieldmaiden, bows for the Huntress, staffs for the Seidr-worker. Bows, staffs and great axes take both hands. A Berserker may hold a second one-handed weapon in the off hand instead of a shield; it gives a quarter of its stats.
+Each class has its weapons: swords, axes, spears, hammers and shields for the Berserker and the Shieldmaiden, bows for the Huntress, staffs for the Seidr-worker, wands for the Lifeweaver. Bows, staffs, wands and great axes take both hands. A Berserker may hold a second one-handed weapon in the off hand instead of a shield; it gives a quarter of its stats.
 
 Every class has armour sets made for it, the first from level 8 and the last from level 85. Two pieces of a set worn add a bonus, all four add another on top. Beasts of a set's levels now and then leave a piece, most often of your own class's set; the Backpack shows how far each set you wear is complete.
 
@@ -382,6 +430,9 @@ Gear comes in tiers, each from a level: tier 1 from level 1, tier 2 from level 8
 | Spae-wife | Seidr-worker | 8 | Spae-wife hood, Spae-wife robe, Spae-wife slippers, Spae-wife charm | +10 mana. | +0.3 % mana a second. |
 | Seer's weave | Seidr-worker | 38 | Seer's weave hood, Seer's weave robe, Seer's weave slippers, Seer's weave charm | +25 mana. | +25 mana, +1 % mana a second. |
 | Norn-thread | Seidr-worker | 85 | Norn-thread hood, Norn-thread robe, Norn-thread slippers, Norn-thread charm | +40 mana. | +1.5 % mana a second, skills ready 3 % sooner. |
+| Herb-gatherer | Lifeweaver | 8 | Herb-gatherer hood, Herb-gatherer smock, Herb-gatherer boots, Herb-gatherer pouch | +10 max HP. | skills ready 2 % sooner. |
+| Lyfjaberg | Lifeweaver | 38 | Lyfjaberg hood, Lyfjaberg robe, Lyfjaberg slippers, Lyfjaberg stone | +20 mana. | +30 max HP, skills ready 3 % sooner. |
+| Eir's mantle | Lifeweaver | 85 | Eir's mantle hood, Eir's mantle robe, Eir's mantle slippers, Eir's mantle charm | +30 max HP, +35 mana. | +1 % mana a second, skills ready 5 % sooner. |
 
 ### The forge
 
