@@ -2,6 +2,10 @@
 
 The newest changes come first. The game is played at https://fight.nornloom.com. An Android app is on its way.
 
+## 16 November 2026
+
+- **Several online heroes**: an account can now keep up to six heroes for the shared worlds. Make a new one for the worlds whenever you like, or take a solo hero online, and pick which one to play on the Play together screen. A hero you no longer want can be let go to make room.
+
 ## 15 November 2026
 
 - **A horse is now a mark of wealth**: it costs 100000 gold, not 250, and only the hamlets of the lands from level 30 keep a stable. Eikthorp has none any more. Horses bought before this change have gone back to the stable.
