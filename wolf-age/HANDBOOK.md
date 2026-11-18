@@ -404,7 +404,7 @@ On the Gods tab you pledge yourself to one god. Each gives two blessings that gr
 
 ## Gear and armour sets
 
-Gear goes in six slots: head, body, legs, weapon, shield and amulet. It adds health, attack, defence and mana, and better pieces add critical hits, blocks, gold or experience. Finds come common, uncommon or rare, and named treasures carry a power of their own. Smiths sell gear, healers sell draughts.
+Gear goes in six slots: head, body, legs, weapon, shield and amulet. It adds health, attack, defence and mana, and better pieces add critical hits, blocks, gold or experience. Finds come common, uncommon or rare, and named treasures carry a power of their own. Smiths sell gear, with a weapon and a charm for every class, and healers sell draughts. Beasts drop gear for every class alike.
 
 Each class has its weapons: swords, axes, spears, hammers and shields for the Berserker and the Shieldmaiden, bows for the Huntress, staffs for the Seidr-worker, wands for the Lifeweaver. Bows, staffs, wands and great axes take both hands. A Berserker may hold a second one-handed weapon in the off hand instead of a shield; it gives a quarter of its stats.
 
