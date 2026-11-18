@@ -16,6 +16,7 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - **Skills no longer shake the screen in the shared worlds**: on a slow phone or a slow line, a Fox Step, a Shield Rush or any art that carries your hero kept snapping it back and forth. Your hero now leaps, rolls and strikes as smoothly as in solo.
 - **A fall in the shared worlds wakes you in the nearest village you know**, or at home if that is nearer, as in solo. Since coming back where you left, a fallen hero woke out in the wild instead.
 - **Beasts leave you be while you talk to someone in the shared worlds**, as the solo world stands still while you talk. It holds for a minute and a half at most (closing and opening the talk does not add time) and ends at your first blow, roll or skill or when you walk away. Other heroes in a PvP world can still strike you.
+- **Hide the chat in the shared worlds**: Hide chat in the menu keeps what other heroes say off the screen, and the game remembers it next time. News from the world and your own lines still show, Say still works, and a gold dot on Show chat (and on Menu, when the menu is folded) tells you someone is talking.
 - **Calm ground round the villagers**: no beast makes its home within seven steps of anyone you can talk to, so the Wanderer, Bjorn and everyone else who gives quests no longer stand among slimes and bats. Beasts that lived there have moved a little way off.
 
 ## 16 November 2026
