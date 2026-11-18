@@ -76,6 +76,10 @@ No. A wrong answer costs nothing; answer again. The reward waits for the right o
 
 The HUD names the next thing to do and the Bag keeps the quest log. In the world, a ! over a villager is a quest to offer and a bright ? means they have something for you now. When nothing is offered, the beasts and the strongboxes around you are worth gold, XP and gear until the next rune stone opens.
 
+**What work do the lands offer?**
+
+Every land has a board of three jobs of its own, and no two lands ask quite the same. The elder may want a beast hunted by the dozen, anything that walks the land cleared, its elites brought down, several strongboxes opened, a word carried to the elder next door, the land beside scouted, a riddle answered, or, in the higher lands, the cave's lord or the land's terror ended. In a hamlet the healer, the smith or the trader may ask for herbs, ore or fish: any patch, vein or shore counts, near or far. The elder's jobs come one after another as you climb the land's levels.
+
 **What is down in the caves?**
 
 A mound with a dark door opens on a cave a few levels above its land. A hole in its deepest room drops to a second level, where the lord of the cave guards a gilded hoard. Under the caves of the high lands the way goes on, floor after floor, six levels harder each, down to level 99. The deep floors shift: each one is carved afresh every day, with new beasts, new strongboxes and a new warden, so the way down is never the same twice. The ladder by the way in always climbs back up.
