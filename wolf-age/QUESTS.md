@@ -3537,61 +3537,61 @@ Reward: 230 gold, 572 XP.
 
 ## The hamlets
 
-Every generated land has an elder with two jobs: cull the land's commonest beast, then open its old strongbox. From level 20 up the elder has two more for the top of the land's levels, when the next lands are not yet open: thin out the beasts that run ahead of the land's old one and bring it down (it stands south-west of the crossroads only while that step is under way), then bring down any eight beasts in the land. They are the same everywhere, so here they are as one table. The bearing is from Eikthorp.
+Every generated land has a board of three jobs of its own, drawn from many kinds: hunts of its beasts in different numbers, a sweep of anything that walks it, its elites, several strongboxes, herbs, ore or fish (in a hamlet the healer, the smith or the trader asks for those, and any patch, vein or shore counts), a word carried to the elder next door, a neighbouring land scouted, the land's cave and its lord, a high land's terror, or the elder's riddle. The elder gives theirs one after another, a little higher up the land's levels each. From level 20 up the elder has two more for the top of the land's levels: thin out the beasts that run ahead of the land's old one and bring it down (it stands south-west of the crossroads only while that step is under way), then bring down any eight beasts in the land. The bearing is from Eikthorp.
 
-| Land | Levels | Elder | Where | Cull | The old one |
+| Land | Levels | Elder | Where | Jobs | The old one |
 | --- | --- | --- | --- | --- | --- |
-| Nidavellir | 12 to 17 | Vigdis the elder | about 190 steps east | 4 × Bandit |  |
-| Jarnskog | 21 to 26 | Einar the elder | about 260 steps east | 4 × Orc warrior | Goblin chief, level 29 (from level 25) |
-| Solhaug | 29 to 34 | Frida the elder | about 330 steps east | 4 × Orc warrior | Goblin chief, level 37 (from level 33) |
-| Alfheim | 38 to 43 | Ketil the elder | about 380 steps east | 4 × Orc brute | Treant, level 46 (from level 42) |
-| Elivagar | 46 to 51 | Ragna the elder | about 450 steps east | 4 × Minotaur | Lizard chieftain, level 54 (from level 50) |
-| Grjotunagard | 55 to 60 | Yngve the elder | about 520 steps east | 4 × Black knight | Drake, level 63 (from level 59) |
-| Svartfjall | 63 to 68 | Arne the elder | about 570 steps east | 4 × Black knight | Drake, level 71 (from level 67) |
-| Thrymheim | 14 to 19 | Asta the elder | about 200 steps east | 4 × Bandit |  |
-| Frostnes | 23 to 28 | Birger the elder | about 250 steps east | 4 × Orc warrior | Goblin chief, level 31 (from level 27) |
-| Gullskog | 31 to 36 | Hilde the elder | about 330 steps east | 4 × Orc brute | Treant, level 39 (from level 35) |
-| Gymisgard | 40 to 45 | Magnus the elder | about 390 steps east | 4 × Orc brute | Treant, level 48 (from level 44) |
-| Jarnholt | 48 to 53 | Tova the elder | about 450 steps east | 4 × Minotaur | Lizard chieftain, level 56 (from level 52) |
-| Helheim | 57 to 62 | Brynjar the elder | about 520 steps east | 4 × Black knight | Drake, level 65 (from level 61) |
-| Alfberg | 65 to 70 | Dagny the elder | about 580 steps east | 4 × Black knight | Drake, level 73 (from level 69) |
-| Helvik | 13 to 18 | Ingvar the elder | about 130 steps south | 4 × Bandit |  |
-| Ormstrand | 13 to 18 | Nanna the elder | about 130 steps south-east | 4 × Bandit |  |
-| Askmark | 13 to 18 | Ulla the elder | about 140 steps south-east | 4 × Bandit |  |
-| Eldmose | 22 to 27 | Dis the elder | about 200 steps south-east | 4 × Orc warrior | Goblin chief, level 30 (from level 26) |
-| Nottvang | 30 to 35 | Eirik the elder | about 260 steps south-east | 4 × Orc brute | Treant, level 38 (from level 34) |
-| Thursnes | 39 to 44 | Jorunn the elder | about 320 steps south-east | 4 × Orc brute | Treant, level 47 (from level 43) |
-| Hlesey | 47 to 52 | Orvar the elder | about 390 steps east | 4 × Minotaur | Lizard chieftain, level 55 (from level 51) |
-| Frosthaug | 56 to 61 | Vigdis the elder | about 450 steps east | 4 × Black knight | Drake, level 64 (from level 60) |
-| Breidablik | 64 to 69 | Einar the elder | about 510 steps east | 4 × Black knight | Drake, level 72 (from level 68) |
-| Grimfell | 73 to 78 | Frida the elder | about 580 steps east | 4 × Lich | Storm elemental, level 81 (from level 77) |
-| Vanaheim | 21 to 26 | Ketil the elder | about 200 steps south | 4 × Orc warrior | Goblin chief, level 29 (from level 25) |
-| Draugvik | 21 to 26 | Ragna the elder | about 200 steps south | 4 × Orc warrior | Goblin chief, level 29 (from level 25) |
-| Isastrand | 21 to 26 | Yngve the elder | about 200 steps south-east | 4 × Orc warrior | Goblin chief, level 29 (from level 25) |
-| Helmark | 29 to 34 | Arne the elder | about 200 steps south-east | 4 × Orc warrior | Goblin chief, level 37 (from level 33) |
-| Ormmose | 38 to 43 | Gunnar the elder | about 260 steps south-east | 4 × Orc brute | Treant, level 46 (from level 42) |
-| Askvang | 46 to 51 | Liv the elder | about 330 steps south-east | 4 × Minotaur | Lizard chieftain, level 54 (from level 50) |
-| Eldnes | 55 to 60 | Sten the elder | about 380 steps south-east | 4 × Black knight | Drake, level 63 (from level 59) |
-| Nottskog | 63 to 68 | Asta the elder | about 450 steps south-east | 4 × Black knight | Drake, level 71 (from level 67) |
-| Thurshaug | 72 to 77 | Birger the elder | about 520 steps east | 4 × Lich | Storm elemental, level 80 (from level 76) |
-| Himinbjorg | 80 to 85 | Hilde the elder | about 570 steps east | 4 × Lich | Storm elemental, level 88 (from level 84) |
-| Bjorney | 31 to 36 | Magnus the elder | about 260 steps south | 4 × Orc brute | Treant, level 39 (from level 35) |
-| Runelund | 31 to 36 | Tova the elder | about 270 steps south | 4 × Orc brute | Treant, level 39 (from level 35) |
-| Lyngvi | 31 to 36 | Brynjar the elder | about 260 steps south-east | 4 × Orc brute | Treant, level 39 (from level 35) |
-| Vindstrand | 40 to 45 | Dagny the elder | about 260 steps south-east | 4 × Orc brute | Treant, level 48 (from level 44) |
-| Draugmark | 48 to 53 | Ingvar the elder | about 270 steps south-east | 4 × Minotaur | Lizard chieftain, level 56 (from level 52) |
-| Isamose | 57 to 62 | Nanna the elder | about 330 steps south-east | 4 × Black knight | Drake, level 65 (from level 61) |
-| Helvang | 65 to 70 | Ulla the elder | about 390 steps south-east | 4 × Black knight | Drake, level 73 (from level 69) |
-| Ormnes | 74 to 79 | Dis the elder | about 450 steps south-east | 4 × Lich | Storm elemental, level 82 (from level 78) |
-| Askskog | 82 to 87 | Eirik the elder | about 520 steps south-east | 4 × Phoenix | Brood of Fenrir, level 90 (from level 86) |
-| Eldhaug | 91 to 96 | Jorunn the elder | about 580 steps south-east | 4 × Phoenix | Brood of Fenrir, level 99 (from level 95) |
-| Svarthals | 39 to 44 | Orvar the elder | about 320 steps south | 4 × Orc brute | Treant, level 47 (from level 43) |
-| Hargey | 39 to 44 | Vigdis the elder | about 320 steps south | 4 × Orc brute | Treant, level 47 (from level 43) |
-| Myrlund | 39 to 44 | Einar the elder | about 330 steps south | 4 × Orc brute | Treant, level 47 (from level 43) |
-| Bjornvik | 47 to 52 | Frida the elder | about 320 steps south-east | 4 × Minotaur | Lizard chieftain, level 55 (from level 51) |
-| Runestrand | 56 to 61 | Ketil the elder | about 320 steps south-east | 4 × Black knight | Drake, level 64 (from level 60) |
-| Skarnmark | 64 to 69 | Ragna the elder | about 330 steps south-east | 4 × Black knight | Drake, level 72 (from level 68) |
-| Vindmose | 73 to 78 | Yngve the elder | about 390 steps south-east | 4 × Lich | Storm elemental, level 81 (from level 77) |
-| Draugvang | 81 to 86 | Arne the elder | about 450 steps south-east | 4 × Phoenix | Brood of Fenrir, level 89 (from level 85) |
-| Hoddmimis Holt | 90 to 95 | Gunnar the elder | about 510 steps south-east | 4 × Phoenix | Brood of Fenrir, level 98 (from level 94) |
-| Vigrid | 97 to 99 | Liv the elder | about 580 steps south-east | 4 × Phoenix | Brood of Fenrir, level 99 (from level 98) |
+| Nidavellir | 12 to 17 | Vigdis the elder | about 190 steps east | 6 × bandit (level 12); word to Asta the elder (level 14); 2 strongboxes (level 14) |  |
+| Jarnskog | 21 to 26 | Einar the elder | about 260 steps east | 5 × brown bear (level 21); word to Vigdis the elder (level 21); 3 strongboxes (level 23) | Goblin chief, level 29 (from level 25) |
+| Solhaug | 29 to 34 | Frida the elder | about 330 steps east | 1 elite (level 29); 4 ore (level 29); 11 × orc warrior (level 31) | Goblin chief, level 37 (from level 33) |
+| Alfheim | 38 to 43 | Ketil the elder | about 380 steps east | any 13 beasts (level 38); a riddle (answer: Huginn and Muninn) (level 38); 8 × lizardman (level 40) | Treant, level 46 (from level 42) |
+| Elivagar | 46 to 51 | Ragna the elder | about 450 steps east | a riddle (answer: Tyr) (level 46); 12 × minotaur (level 46); 2 elites (level 48) | Lizard chieftain, level 54 (from level 50) |
+| Grjotunagard | 55 to 60 | Yngve the elder | about 520 steps east | word to Ragna the elder (level 53); the terror (level 59); 7 beasts in Grjotunagard Cave, then the cave's lord (level 61) | Drake, level 63 (from level 59) |
+| Svartfjall | 63 to 68 | Arne the elder | about 570 steps east | word to Yngve the elder (level 61); any 16 beasts (level 63); 7 beasts in Svartfjall Cave, then the cave's lord (level 69) | Drake, level 71 (from level 67) |
+| Thrymheim | 14 to 19 | Asta the elder | about 200 steps east | any 13 beasts (level 14); scout Nidavellir, then 3 × bandit in Nidavellir (level 14); 8 × raider (level 16) |  |
+| Frostnes | 23 to 28 | Birger the elder | about 250 steps east | 3 ore (the smith) (level 23); 2 strongboxes (level 23); 9 × orc warrior (level 23) | Goblin chief, level 31 (from level 27) |
+| Gullskog | 31 to 36 | Hilde the elder | about 330 steps east | scout Solhaug, then 3 × orc warrior in Solhaug (level 30); 4 × lizardman (level 31); any 13 beasts (level 33) | Treant, level 39 (from level 35) |
+| Gymisgard | 40 to 45 | Magnus the elder | about 390 steps east | 12 × orc brute (level 40); word to Hilde the elder (level 40); 6 beasts in Gymisgard Cave, then the cave's lord (level 46) | Treant, level 48 (from level 44) |
+| Jarnholt | 48 to 53 | Tova the elder | about 450 steps east | 6 herbs (the healer) (level 48); 4 × stone golem (level 48); 5 beasts in Jarnholt Cave, then the cave's lord (level 54) | Lizard chieftain, level 56 (from level 52) |
+| Helheim | 57 to 62 | Brynjar the elder | about 520 steps east | 10 × black knight (level 57); 2 strongboxes (level 57); a riddle (answer: Yggdrasil) (level 59) | Drake, level 65 (from level 61) |
+| Alfberg | 65 to 70 | Dagny the elder | about 580 steps east | word to Brynjar the elder (level 63); 7 beasts in Alfberg Cave, then the cave's lord (level 71); the terror (level 71) | Drake, level 73 (from level 69) |
+| Helvik | 13 to 18 | Ingvar the elder | about 130 steps south | 1 elite (level 13); a riddle (answer: Huginn and Muninn) (level 13); 8 × raider (level 15) |  |
+| Ormstrand | 13 to 18 | Nanna the elder | about 130 steps south-east | 3 strongboxes (level 13); 1 elite (level 13); word to Ingvar the elder (level 15) |  |
+| Askmark | 13 to 18 | Ulla the elder | about 140 steps south-east | scout Ormstrand, then 3 × bandit in Ormstrand (level 13); 1 elite (level 13); any 12 beasts (level 15) |  |
+| Eldmose | 22 to 27 | Dis the elder | about 200 steps south-east | 8 × brown bear (level 22); 3 ore (level 22); 6 beasts in Andvarafors, then the cave's lord (level 28) | Goblin chief, level 30 (from level 26) |
+| Nottvang | 30 to 35 | Eirik the elder | about 260 steps south-east | 2 elites (level 30); word to Dis the elder (level 30); 2 strongboxes (level 32) | Treant, level 38 (from level 34) |
+| Thursnes | 39 to 44 | Jorunn the elder | about 320 steps south-east | scout Gullskog, then 3 × orc brute in Gullskog (level 38); 3 strongboxes (level 39); any 13 beasts (level 41) | Treant, level 47 (from level 43) |
+| Hlesey | 47 to 52 | Orvar the elder | about 390 steps east | 2 elites (level 47); word to Jorunn the elder (level 47); any 11 beasts (level 49) | Lizard chieftain, level 55 (from level 51) |
+| Frosthaug | 56 to 61 | Vigdis the elder | about 450 steps east | word to Orvar the elder (level 54); 5 × moss golem (level 56); 5 beasts in Thokk's Cave, then the cave's lord (level 62) | Drake, level 64 (from level 60) |
+| Breidablik | 64 to 69 | Einar the elder | about 510 steps east | 6 herbs (the healer) (level 64); 5 beasts in Breidablik Cave, then the cave's lord (level 70); the terror (level 70) | Drake, level 72 (from level 68) |
+| Grimfell | 73 to 78 | Frida the elder | about 580 steps east | a riddle (answer: Tyr) (level 73); 2 strongboxes (level 73); the terror (level 77) | Storm elemental, level 81 (from level 77) |
+| Vanaheim | 21 to 26 | Ketil the elder | about 200 steps south | 1 elite (level 21); 3 fish (the merchant) (level 21); 7 beasts in Vanaheim Cave, then the cave's lord (level 27) | Goblin chief, level 29 (from level 25) |
+| Draugvik | 21 to 26 | Ragna the elder | about 200 steps south | 1 elite (level 21); 9 × orc warrior (level 21); word to Nanna the elder (level 23) | Goblin chief, level 29 (from level 25) |
+| Isastrand | 21 to 26 | Yngve the elder | about 200 steps south-east | 3 strongboxes (level 21); 8 × orc warrior (level 21); word to Ulla the elder (level 23) | Goblin chief, level 29 (from level 25) |
+| Helmark | 29 to 34 | Arne the elder | about 200 steps south-east | any 11 beasts (level 29); 2 strongboxes (level 29); a riddle (answer: Odin) (level 31) | Goblin chief, level 37 (from level 33) |
+| Ormmose | 38 to 43 | Gunnar the elder | about 260 steps south-east | 2 elites (level 38); 3 fish (level 38); 9 × orc brute (level 40) | Treant, level 46 (from level 42) |
+| Askvang | 46 to 51 | Liv the elder | about 330 steps south-east | any 10 beasts (level 46); scout Thursnes, then 3 × orc brute in Thursnes (level 46); 7 beasts in Askvang Cave, then the cave's lord (level 52) | Lizard chieftain, level 54 (from level 50) |
+| Eldnes | 55 to 60 | Sten the elder | about 380 steps south-east | 7 × moss golem (level 55); 3 ore (the smith) (level 55); 2 elites (level 55) | Drake, level 63 (from level 59) |
+| Nottskog | 63 to 68 | Asta the elder | about 450 steps south-east | a riddle (answer: Heimdall) (level 63); the terror (level 67); 7 beasts in Nottskog Cave, then the cave's lord (level 69) | Drake, level 71 (from level 67) |
+| Thurshaug | 72 to 77 | Birger the elder | about 520 steps east | any 11 beasts (level 72); 2 strongboxes (level 72); a riddle (answer: Tyr) (level 74) | Storm elemental, level 80 (from level 76) |
+| Himinbjorg | 80 to 85 | Hilde the elder | about 570 steps east | word to Birger the elder (level 78); 5 × ice elemental (level 80); the terror (level 84) | Storm elemental, level 88 (from level 84) |
+| Bjorney | 31 to 36 | Magnus the elder | about 260 steps south | a riddle (answer: Odin) (level 31); 3 strongboxes (level 31); 2 elites (level 33) | Treant, level 39 (from level 35) |
+| Runelund | 31 to 36 | Tova the elder | about 270 steps south | a riddle (answer: Eight) (level 31); 2 elites (level 31); 5 beasts in Runelund Cave, then the cave's lord (level 37) | Treant, level 39 (from level 35) |
+| Lyngvi | 31 to 36 | Brynjar the elder | about 260 steps south-east | 2 elites (level 31); 4 herbs (level 31); 2 strongboxes (level 33) | Treant, level 39 (from level 35) |
+| Vindstrand | 40 to 45 | Dagny the elder | about 260 steps south-east | a riddle (answer: Tyr) (level 40); 2 elites (level 40); any 12 beasts (level 42) | Treant, level 48 (from level 44) |
+| Draugmark | 48 to 53 | Ingvar the elder | about 270 steps south-east | word to Gunnar the elder (level 46); 3 strongboxes (level 48); 6 beasts in Draugmark Cave, then the cave's lord (level 54) | Lizard chieftain, level 56 (from level 52) |
+| Isamose | 57 to 62 | Nanna the elder | about 330 steps south-east | word to Liv the elder (level 55); 5 beasts in Isamose Cave, then the cave's lord (level 63); the terror (level 63) | Drake, level 65 (from level 61) |
+| Helvang | 65 to 70 | Ulla the elder | about 390 steps south-east | 3 ore (level 65); 12 × black knight (level 65); the terror (level 69) | Drake, level 73 (from level 69) |
+| Ormnes | 74 to 79 | Dis the elder | about 450 steps south-east | any 14 beasts (level 74); 2 elites (level 74); 3 fish (the merchant) (level 74) | Storm elemental, level 82 (from level 78) |
+| Askskog | 82 to 87 | Eirik the elder | about 520 steps south-east | word to Birger the elder (level 80); 2 strongboxes (level 82); the terror (level 86) | Brood of Fenrir, level 90 (from level 86) |
+| Eldhaug | 91 to 96 | Jorunn the elder | about 580 steps south-east | a riddle (answer: Eight) (level 91); 10 × phoenix (level 91); 5 beasts in Eldhaug Cave, then the cave's lord (level 97) | Brood of Fenrir, level 99 (from level 95) |
+| Svarthals | 39 to 44 | Orvar the elder | about 320 steps south | 9 × orc brute (level 39); any 11 beasts (level 39); a riddle (answer: Eight) (level 41) | Treant, level 47 (from level 43) |
+| Hargey | 39 to 44 | Vigdis the elder | about 320 steps south | word to Tova the elder (level 37); 7 × lizardman (level 39); 3 strongboxes (level 41) | Treant, level 47 (from level 43) |
+| Myrlund | 39 to 44 | Einar the elder | about 330 steps south | any 15 beasts (level 39); word to Brynjar the elder (level 39); 7 beasts in Myrlund Cave, then the cave's lord (level 45) | Treant, level 47 (from level 43) |
+| Bjornvik | 47 to 52 | Frida the elder | about 320 steps south-east | scout Vindstrand, then 3 × orc brute in Vindstrand (level 46); 8 × stone golem (level 47); 6 beasts in Bjornvik Cave, then the cave's lord (level 53) | Lizard chieftain, level 55 (from level 51) |
+| Runestrand | 56 to 61 | Ketil the elder | about 320 steps south-east | any 10 beasts (level 56); word to Frida the elder (level 56); 2 elites (level 58) | Drake, level 64 (from level 60) |
+| Skarnmark | 64 to 69 | Ragna the elder | about 330 steps south-east | 3 ore (the smith) (level 64); 2 elites (level 64); the terror (level 68) | Drake, level 72 (from level 68) |
+| Vindmose | 73 to 78 | Yngve the elder | about 390 steps south-east | a riddle (answer: The Norns) (level 73); any 16 beasts (level 73); 2 elites (level 75) | Storm elemental, level 81 (from level 77) |
+| Draugvang | 81 to 86 | Arne the elder | about 450 steps south-east | a riddle (answer: Thor's) (level 81); 5 beasts in Draugvang Cave, then the cave's lord (level 87); the terror (level 87) | Brood of Fenrir, level 89 (from level 85) |
+| Hoddmimis Holt | 90 to 95 | Gunnar the elder | about 510 steps south-east | 3 strongboxes (level 90); scout Askskog, then 3 × phoenix in Askskog (level 90); the terror (level 94) | Brood of Fenrir, level 98 (from level 94) |
+| Vigrid | 97 to 99 | Liv the elder | about 580 steps south-east | 6 herbs (level 97); 2 strongboxes (level 97); the terror (level 99) | Brood of Fenrir, level 99 (from level 98) |

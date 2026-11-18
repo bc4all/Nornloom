@@ -2,6 +2,11 @@
 
 The newest changes come first. The game is played at https://fight.nornloom.com. An Android app is on its way.
 
+## 18 November 2026
+
+- **Every land has its own work now**: the lands no longer all ask to cull four beasts and open one strongbox. Each land has a board of three jobs drawn from many kinds: hunts of up to a dozen of a beast, clearing up to sixteen of anything that walks the land, its elites, several strongboxes, a word carried to the elder next door, scouting the land beside, a riddle from the old stories, the lord of the land's cave or a high land's terror. In a hamlet the healer, the smith or the trader may ask for herbs, ore or fish, from any patch, vein or shore. The jobs work the same in the shared worlds.
+- Lands you have already worked through offer their new jobs too. A cull or a strongbox job you had under way can still be finished and handed in.
+
 ## 16 November 2026
 
 - **A new class, the Lifeweaver**: a healer with a wand and runes of life. Its blows are the lightest of all, but it keeps others standing. Tap another hero to bind to them: Eir's Touch mends them, the Shelter Rune makes blows on them land lighter, and part of every blow you land mends them too. Alone, a Lifeweaver strikes harder and mends itself, so it plays solo as well. It has its own wands, two skill trees and three armour sets. In a PvP world, outside a village, it can mend only itself.
