@@ -551,19 +551,55 @@ In a world shared with others, a party of 2 to 4 heroes can go down into a raid 
 
 Herbs, ore veins and fishing spots stand in the wild. Walk up to one and press Gather; it grows back in 4 minutes. Herb lore, Mining, Fishing and Brewing are crafts that grow with use up to level 10, and the richer finds of the far lands want a practised hand. Brew healing and mana draughts on the Bag's Crafts tab.
 
+Each craft is a tree of steps on the Bag's Crafts tab, and a step opens when the craft reaches its level: the richer finds, quicker regrowth, fuller yields, a rune shard now and then from a vein, and draughts brewed two at once. At level 10 a craft is mastered.
+
+What you gather is in the Bag, on the All and Goods tabs. Any trader buys it, a little gold a piece. Online it can also go on the market, where heroes of the same kind of world, peaceful or PvP, can buy it.
+
 The richer finds want more of the craft: tier 1 from level 1, tier 2 from level 3, tier 3 from level 6, out of 10.
 
-| Find | Craft | Tier | What it is |
+| Find | Craft | Tier | A trader pays | What it is |
+| --- | --- | --- | --- | --- |
+| Healwort | Herb lore | 1 | 3 gold | A common leaf of the meadows. Brewed, it closes cuts. |
+| Bloodmoss | Herb lore | 2 | 10 gold | Red moss of the deep woods and barrows. Strong in a draught. |
+| Goldthread | Herb lore | 3 | 24 gold | A golden root of the far north, said to grow where gods have walked. |
+| Bog iron | Mining | 1 | 3 gold | Lumps of rusty iron. The smith smelts it into scrap iron. |
+| Mountain silver | Mining | 2 | 10 gold | Bright ore from high rock. Worth two of bog iron at the forge. |
+| Star-iron | Mining | 3 | 24 gold | Iron that fell from the sky. Worth three of bog iron at the forge. |
+| Fjord herring | Fishing | 1 | 3 gold | Silver and quick. The oil of it feeds a mana draught. |
+| Black eel | Fishing | 2 | 10 gold | Slippery and strong. Brewers prize it for mana draughts. |
+| Ice char | Fishing | 3 | 24 gold | Caught under northern ice. The best mana draughts need it. |
+
+The forge's own materials sell too: scrap iron 1 gold, rune shards 8 gold, dwarf ember 20 gold a piece.
+
+### The crafts' steps
+
+| Craft | Level | Step | What it opens |
 | --- | --- | --- | --- |
-| Healwort | Herb lore | 1 | A common leaf of the meadows. Brewed, it closes cuts. |
-| Bloodmoss | Herb lore | 2 | Red moss of the deep woods and barrows. Strong in a draught. |
-| Goldthread | Herb lore | 3 | A golden root of the far north, said to grow where gods have walked. |
-| Bog iron | Mining | 1 | Lumps of rusty iron. The smith smelts it into scrap iron. |
-| Mountain silver | Mining | 2 | Bright ore from high rock. Worth two of bog iron at the forge. |
-| Star-iron | Mining | 3 | Iron that fell from the sky. Worth three of bog iron at the forge. |
-| Fjord herring | Fishing | 1 | Silver and quick. The oil of it feeds a mana draught. |
-| Black eel | Fishing | 2 | Slippery and strong. Brewers prize it for mana draughts. |
-| Ice char | Fishing | 3 | Caught under northern ice. The best mana draughts need it. |
+| Herb lore | 1 | Healwort | Pick healwort in the meadows of the first lands. |
+| Herb lore | 3 | Bloodmoss | Pick bloodmoss in lands of level 25 and up. |
+| Herb lore | 4 | Quick hands | What you pick grows back in 3 minutes instead of 4. |
+| Herb lore | 6 | Goldthread | Pick goldthread in lands of level 60 and up. |
+| Herb lore | 8 | Bountiful | A second find comes far more often. |
+| Herb lore | 10 | Master herbalist | Every pick gives at least two, now and then three. |
+| Mining | 1 | Bog iron | Mine bog iron beside the rocks of the first lands. |
+| Mining | 3 | Mountain silver | Mine mountain silver in lands of level 25 and up. |
+| Mining | 4 | Quick hands | What you pick grows back in 3 minutes instead of 4. |
+| Mining | 5 | Smelter | Every piece of ore smelts into one more scrap iron. |
+| Mining | 6 | Star-iron | Mine star-iron in lands of level 60 and up. |
+| Mining | 8 | Rune seam | One vein in ten gives a rune shard as well. |
+| Mining | 10 | Master miner | Every pick gives at least two, now and then three. |
+| Fishing | 1 | Fjord herring | Fish herring where the shore of the first lands meets water. |
+| Fishing | 3 | Black eel | Fish black eel in lands of level 25 and up. |
+| Fishing | 4 | Quick hands | What you pick grows back in 3 minutes instead of 4. |
+| Fishing | 6 | Ice char | Fish ice char in lands of level 60 and up. |
+| Fishing | 8 | Full nets | A second find comes far more often. |
+| Fishing | 10 | Master angler | Every pick gives at least two, now and then three. |
+| Brewing | 1 | Small draughts | Brew the small healing and mana draughts. |
+| Brewing | 3 | Strong draughts | Brew the strong healing and mana draughts. |
+| Brewing | 5 | Steady hand | One brew in five makes two draughts. |
+| Brewing | 6 | Elixirs | Brew Idunn's elixir and the water of Mimir's well. |
+| Brewing | 9 | Great draughts | Brew the draughts of the jarl and of the völva. |
+| Brewing | 10 | Master brewer | One brew in three makes two draughts. |
 
 ### Draughts to brew
 

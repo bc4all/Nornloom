@@ -20,6 +20,10 @@ Yes. Sign in, press Play together on the title screen, and make a hero for the w
 
 Yes. In a shared world, Hide chat in the menu keeps what other heroes say off the screen, and the game remembers it. News from the world and your own lines still show, Say still works, and a gold dot on Show chat tells you someone is talking.
 
+**Can I sell what I gather?**
+
+Yes. Herbs, ore, fish and the forge's materials are in the Bag on the Goods tab. At any trader, pick them under Your bag and sell one or all. Online you can also offer them on the market, to heroes of the same kind of world.
+
 **How does the Lifeweaver mend others?**
 
 Tap another hero to bind to them; a green ring marks them. Eir's Touch mends them, Shelter Rune shelters them, and 20% of the harm you deal to beasts mends them too, from up to about 8 tiles away. Tap open ground to let go. With nobody bound, Eir's Touch mends whoever near you is most hurt, and your blows land harder. You can mend only heroes at peace with you: in a PvP world, off a village's safe ground, only yourself.

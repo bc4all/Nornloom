@@ -20,6 +20,9 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - **Beasts leave you be while you talk to someone in the shared worlds**, as the solo world stands still while you talk. It holds for a minute and a half at most (closing and opening the talk does not add time) and ends at your first blow, roll or skill or when you walk away. Other heroes in a PvP world can still strike you.
 - **Hide the chat in the shared worlds**: Hide chat in the menu keeps what other heroes say off the screen, and the game remembers it next time. News from the world and your own lines still show, Say still works, and a gold dot on Show chat (and on Menu, when the menu is folded) tells you someone is talking.
 - **Calm ground round the villagers**: no beast makes its home within seven steps of anyone you can talk to, so the Wanderer, Bjorn and everyone else who gives quests no longer stand among slimes and bats. Beasts that lived there have moved a little way off.
+- **What you gather is in the Bag**: herbs, ore, fish and the forge's scrap iron, rune shards and dwarf embers now sit in the Bag beside your gear, on the All tab and on a new Goods tab. Tap one to see where it is found, what it is brewed or smelted into and what it fetches.
+- **Sell what you gather**: every trader buys your goods, one at a time or all at once, in solo and in the shared worlds. Online you can also offer them on the market, to heroes of your own kind of world.
+- **The crafts are trees now**: Herb lore, Mining, Fishing and Brewing each show as a column of steps on the Bag's Crafts tab, and every step opens as the craft grows: the richer finds, Quick hands (what you pick grows back in three minutes), Bountiful and Full nets (a second find far more often), Smelter (more scrap iron from ore), Rune seam (now and then a rune shard from a vein), Steady hand (a brew now and then makes two draughts) and a master's step at level 10.
 
 ## 16 November 2026
 
