@@ -6,6 +6,8 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 
 - **Every land has its own work now**: the lands no longer all ask to cull four beasts and open one strongbox. Each land has a board of three jobs drawn from many kinds: hunts of up to a dozen of a beast, clearing up to sixteen of anything that walks the land, its elites, several strongboxes, a word carried to the elder next door, scouting the land beside, a riddle from the old stories, the lord of the land's cave or a high land's terror. In a hamlet the healer, the smith or the trader may ask for herbs, ore or fish, from any patch, vein or shore. The jobs work the same in the shared worlds.
 - Lands you have already worked through offer their new jobs too. A cull or a strongbox job you had under way can still be finished and handed in.
+- **Something for every class at the smiths**: every class now has its own charm, worn in the amulet slot: a bear-claw for the Berserker, a shield-ring for the Shieldmaiden, an arrow charm for the Huntress, a spirit bead for the Seidr-worker and a healing knot for the Lifeweaver, from carved ones at the start to godforged ones at the end. Every smith sells each class a weapon and a charm of its level. Sigrun in Eikthorp now sells bows, staffs and wands too, and Leif's lodge sells wands.
+- **Finds for every class alike**: beasts, bosses, strongboxes and dug hoards now drop gear every class can use in about the same share, about three finds in five for each. Before, the melee classes' blades and shields made up most finds.
 
 ## 16 November 2026
 
