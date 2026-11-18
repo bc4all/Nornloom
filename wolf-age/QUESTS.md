@@ -181,7 +181,7 @@ Then press "Keep watch".
 
 **5. Keep the night watch: drive off 3 creatures in the meadows**
 
-Where: Ashgrove Meadows. Right beside The Wanderer. *The Wanderer hangs in the tree. Keep the creatures of the meadows away from him: three of them, at least.*
+Where: Ashgrove Meadows. About 5 steps north-east of The Wanderer. *The Wanderer hangs in the tree. Keep the creatures of the meadows away from him: three of them, at least.*
 
 ![](images/quests/hanged-god-05.png)
 
@@ -189,7 +189,7 @@ Win 3 fights against anything that roams Ashgrove Meadows.
 
 **6. Cut the Wanderer down on the ninth night**
 
-Where: The Wanderer, in Ashgrove Meadows. Right beside where you fought. *Nine nights are up. Go back to the tree.*
+Where: The Wanderer, in Ashgrove Meadows. About 5 steps south-west of where you fought. *Nine nights are up. Go back to the tree.*
 
 ![](images/quests/hanged-god-06.png)
 
@@ -1333,7 +1333,7 @@ At Hymir's own forehead.
 
 **6. Carry the kettle home: beat off 3 of Hymir's giants on the road**
 
-Where: Elivagar. About 4 steps south-west of Hymir's wife, Týr's mother. *Hymir's kin are following you out of Elivagar with the kettle. Three of them at least.*
+Where: Elivagar. About 5 steps south-west of Hymir's wife, Týr's mother. *Hymir's kin are following you out of Elivagar with the kettle. Three of them at least.*
 
 ![](images/quests/kettle-and-serpent-06.png)
 
@@ -3039,7 +3039,7 @@ The everyday jobs of the villages. Close to home for the first levels: wolves, s
 
 **1. Defeat Grey wolf**
 
-Where: Eikthorp. About 40 steps north-east of Elder Halvard. *The wolves are still out there. Look for them on the edge of the village.*
+Where: Eikthorp. About 40 steps south-east of Elder Halvard. *The wolves are still out there. Look for them on the edge of the village.*
 
 ![](images/quests/wolves-at-the-gate-01.png)
 
@@ -3049,7 +3049,7 @@ Grey wolfs roam here; walk into one to fight it.
 
 **Return to Elder Halvard**
 
-About 40 steps south-west of where you fought.
+About 40 steps north-west of where you fought.
 
 ![](images/quests/wolves-at-the-gate-02.png)
 
@@ -3127,7 +3127,7 @@ Reward: 60 gold, 80 XP.
 
 **1. Defeat Bog slime**
 
-Where: Ashgrove Meadows. About 8 steps west of Bjorn the farmer. *Four slimes. They ooze about the meadows, you cannot miss them.*
+Where: Ashgrove Meadows. About 10 steps north of Bjorn the farmer. *Four slimes. They ooze about the meadows, you cannot miss them.*
 
 ![](images/quests/slime-harvest-01.png)
 
@@ -3137,7 +3137,7 @@ Bog slimes roam here; walk into one to fight it.
 
 **Return to Bjorn the farmer**
 
-About 8 steps east of where you fought.
+About 10 steps south of where you fought.
 
 ![](images/quests/slime-harvest-02.png)
 
@@ -3157,7 +3157,7 @@ Reward: 45 gold, 60 XP.
 
 **1. Defeat Cave bat**
 
-Where: Ashgrove Meadows. About 7 steps west of Bjorn the farmer. *Three bats, near the pond. Bring a torch, or just an axe.*
+Where: Ashgrove Meadows. About 11 steps west of Bjorn the farmer. *Three bats, near the pond. Bring a torch, or just an axe.*
 
 ![](images/quests/bats-in-the-barn-01.png)
 
@@ -3167,7 +3167,7 @@ Cave bats roam here; walk into one to fight it.
 
 **Return to Bjorn the farmer**
 
-About 7 steps east of where you fought.
+About 11 steps east of where you fought.
 
 ![](images/quests/bats-in-the-barn-02.png)
 
@@ -3247,7 +3247,7 @@ Reward: 120 gold, 200 XP, Hunting spear.
 
 **1. Defeat Barrow draugr**
 
-Where: Barrow Hills. About 15 steps north-west of Ragnhild the gravekeeper. *Four draugr. They wander the ruins and the hillside.*
+Where: Barrow Hills. About 17 steps south-west of Ragnhild the gravekeeper. *Four draugr. They wander the ruins and the hillside.*
 
 ![](images/quests/restless-dead-01.png)
 
@@ -3257,7 +3257,7 @@ Barrow draugrs roam here; walk into one to fight it.
 
 **Return to Ragnhild the gravekeeper**
 
-About 15 steps south-east of where you fought.
+About 17 steps north-east of where you fought.
 
 ![](images/quests/restless-dead-02.png)
 
