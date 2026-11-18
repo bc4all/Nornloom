@@ -551,11 +551,13 @@ In a world shared with others, a party of 2 to 4 heroes can go down into a raid 
 
 Herbs, ore veins and fishing spots stand in the wild. Walk up to one and press Gather; it grows back in 4 minutes. Herb lore, Mining, Fishing and Brewing are crafts that grow with use up to level 10, and the richer finds of the far lands want a practised hand. Brew healing and mana draughts on the Bag's Crafts tab.
 
-Each craft is a tree of steps on the Bag's Crafts tab, and a step opens when the craft reaches its level: the richer finds, quicker regrowth, fuller yields, a rune shard now and then from a vein, and draughts brewed two at once. At level 10 a craft is mastered.
+Each craft is a tree on the Bag's Crafts tab, like the skill trees: the finds down the middle, the smith's tools to one side and the craft's steps to the other, meeting in the master's step at level 10. Steps open by themselves as the craft grows: the richer finds, quicker regrowth, fuller yields, a rune shard now and then from a vein, and draughts brewed two at once. In Brewing the healing and mana draughts branch apart; tap one to brew it.
 
 What you gather is in the Bag, on the All and Goods tabs. Any trader buys it, a little gold a piece. Online it can also go on the market, where heroes of the same kind of world, peaceful or PvP, can buy it.
 
 Any smith also makes gathering tools from your goods: a sickle, a pick and a net, each in three grades, each made after the one below. A tool takes no room and helps every pick of its craft. Smiths tie gathering knots too, worn in the amulet slot, which help every pick of every kind. Both bring a second find more often and more craft XP a pick, but a master's third find stays rare.
+
+Brewing also makes boon draughts, and Cooking, a fifth craft, turns fish and herbs into meals. A draught or a meal makes you stronger for a while: blows land true or glance off more often, skills come ready sooner, mana comes back faster. One draught and one meal can work at once, and a new one takes the place of the last of its kind. Cook and brew from the Bag's Crafts tab.
 
 The richer finds want more of the craft: tier 1 from level 1, tier 2 from level 3, tier 3 from level 6, out of 10.
 
@@ -602,6 +604,9 @@ The forge's own materials sell too: scrap iron 1 gold, rune shards 8 gold, dwarf
 | Brewing | 6 | Elixirs | Brew Idunn's elixir and the water of Mimir's well. |
 | Brewing | 9 | Great draughts | Brew the draughts of the jarl and of the völva. |
 | Brewing | 10 | Master brewer | One brew in three makes two draughts. |
+| Cooking | 1 | Campfire cooking | Cook fish and herbs into meals that strengthen you for a while. |
+| Cooking | 6 | Slow fire | Your meals last half as long again. |
+| Cooking | 10 | Master cook | One meal in three cooks two. |
 
 ### Tools and knots from the smith
 
@@ -622,18 +627,26 @@ A tool helps every pick of its craft, a knot worn in the amulet slot every pick 
 | Wanderer's knot | level 25, Herb lore 4, Mining 4, Fishing 4 | 6 bloodmoss, 6 mountain silver, 6 black eel, 3 rune shards, 400 gold |
 | Norn-thread knot | level 60, Herb lore 7, Mining 7, Fishing 7 | 8 goldthread, 8 star-iron, 8 ice char, 2 dwarf ember, 1500 gold |
 
-### Draughts to brew
+### Draughts to brew and meals to cook
 
-| Draught | Brewing level | Takes |
-| --- | --- | --- |
-| Healing draught | 1 | 2 Healwort |
-| Mana draught | 1 | 1 Healwort, 1 Fjord herring |
-| Strong draught | 3 | 3 Healwort |
-| Strong mana draught | 3 | 1 Healwort, 2 Fjord herring |
-| Idunn's elixir | 6 | 2 Bloodmoss, 1 Healwort |
-| Water of Mimir's well | 6 | 1 Bloodmoss, 2 Black eel |
-| Draught of the jarl | 9 | 2 Goldthread, 1 Bloodmoss |
-| Draught of the völva | 9 | 1 Goldthread, 2 Ice char |
+A boon draught or a meal strengthens you for a while; one draught and one meal can work at once.
+
+| Draught or meal | Craft | Level | Takes | Does |
+| --- | --- | --- | --- | --- |
+| Healing draught | Brewing | 1 | 2 Healwort | Restores15 HP. |
+| Mana draught | Brewing | 1 | 1 Healwort, 1 Fjord herring | Restores25 mana. |
+| Strong draught | Brewing | 3 | 3 Healwort | Restores40 HP. |
+| Strong mana draught | Brewing | 3 | 1 Healwort, 2 Fjord herring | Restores70 mana. |
+| Idunn's elixir | Brewing | 6 | 2 Bloodmoss, 1 Healwort | Restores90 HP. |
+| Water of Mimir's well | Brewing | 6 | 1 Bloodmoss, 2 Black eel | Restores170 mana. |
+| Draught of the jarl | Brewing | 9 | 2 Goldthread, 1 Bloodmoss | Restores150 HP. |
+| Draught of the völva | Brewing | 9 | 1 Goldthread, 2 Ice char | Restores250 mana. |
+| Draught of fury | Brewing | 3 | 3 Healwort, 1 Bog iron | For 10 minutes: +5 % critical hit. |
+| Shield-wall draught | Brewing | 6 | 1 Bloodmoss, 1 Mountain silver, 1 Fjord herring | For 10 minutes: +5 % block. |
+| Fox draught | Brewing | 9 | 1 Goldthread, 2 Black eel | For 10 minutes: skills ready 5 % sooner. |
+| Herring broth | Cooking | 1 | 2 Fjord herring, 1 Healwort | For 20 minutes: +0.5 % mana a second. |
+| Eel stew | Cooking | 3 | 2 Black eel, 1 Bloodmoss | For 20 minutes: +3 % critical hit, +3 % block. |
+| Ice char feast | Cooking | 7 | 2 Ice char, 1 Goldthread | For 20 minutes: +0.5 % mana a second, skills ready 4 % sooner. |
 
 ## Bounties
 
