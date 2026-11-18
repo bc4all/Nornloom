@@ -18,7 +18,7 @@ Yes. Sign in, press Play together on the title screen, and make a hero for the w
 
 **Can I hide the chat?**
 
-Yes. In a shared world, Hide chat in the menu keeps what other heroes say off the screen, and the game remembers it. News from the world and your own lines still show, Say still works, and a gold dot on Show chat tells you someone is talking.
+Yes. In a shared world, tap the x beside the chat to close it, and the game remembers it. A small Chat button stands where it was and brings it back, with a gold dot while someone is talking. Say opens the chat again too.
 
 **Can I sell what I gather?**
 
