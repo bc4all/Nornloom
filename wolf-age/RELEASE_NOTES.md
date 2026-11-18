@@ -8,6 +8,9 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - Lands you have already worked through offer their new jobs too. A cull or a strongbox job you had under way can still be finished and handed in.
 - **Something for every class at the smiths**: every class now has its own charm, worn in the amulet slot: a bear-claw for the Berserker, a shield-ring for the Shieldmaiden, an arrow charm for the Huntress, a spirit bead for the Seidr-worker and a healing knot for the Lifeweaver, from carved ones at the start to godforged ones at the end. Every smith sells each class a weapon and a charm of its level. Sigrun in Eikthorp now sells bows, staffs and wands too, and Leif's lodge sells wands.
 - **Finds for every class alike**: beasts, bosses, strongboxes and dug hoards now drop gear every class can use in about the same share, about three finds in five for each. Before, the melee classes' blades and shields made up most finds.
+- **Walking in the shared worlds is smooth on every phone**: a phone that stutters for a moment no longer pulls your hero back or leaves it walking in place.
+- **Zoom out as far as in solo** in the shared worlds, holding your phone upright or on its side.
+- **Back where you left**: leave a shared world and come back, and your hero stands where you left it (left in a cave, at the cave's mouth).
 
 ## 16 November 2026
 
