@@ -13,6 +13,8 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - **Let go of the hero you are playing**: on the Play together screen the hero you play now has its own "Let go" under its name, as the others do. Before, only your other heroes could be let go, so a single online hero could never be.
 - **Back where you left**: leave a shared world and come back, and your hero stands where you left it (left in a cave, at the cave's mouth).
 - **No more nameless "Hero" in the shared worlds**: the halves of a beast that splits, a pack a beast calls in and a boss's helpers now look and are named as in solo. Before, they showed as a hero called "Hero", jumped about, and could not be tapped.
+- **Skills no longer shake the screen in the shared worlds**: on a slow phone or a slow line, a Fox Step, a Shield Rush or any art that carries your hero kept snapping it back and forth. Your hero now leaps, rolls and strikes as smoothly as in solo.
+- **A fall in the shared worlds wakes you in the nearest village you know**, or at home if that is nearer, as in solo. Since coming back where you left, a fallen hero woke out in the wild instead.
 
 ## 16 November 2026
 
