@@ -96,7 +96,7 @@ Calm beasts leave you alone until you hit them. Fierce ones come for you when th
 
 ![The hero strikes the slime; the damage rises over it](images/tutorial-09-strike.jpg)
 
-Walk up to the beast and press **Strike**. The number that rises is the damage you did. Hold Strike down to charge a heavier blow. **Tap a beast** to make it your target: a gold ring shows round it, and your blows turn to it.
+Walk up to the beast and press **Strike**. The number that rises is the damage you did. Hold Strike down to charge a heavier blow. **Tap a beast** to make it your target: a gold ring shows round it, and your blows and shots go at it, even while you walk the other way. With a bow or a staff you can back away from a beast and keep shooting it.
 
 Watch the beast, too. Before it hits, it winds up and marks the ground. Step away, or press the **dodge roll** button just above Strike: for most of the roll nothing can touch you.
 
@@ -170,7 +170,7 @@ The same two tables as the game's help book (Help, then Getting started and Figh
 | Button or key | What it does |
 | --- | --- |
 | Strike: J, Space or a click | a blow with your weapon; hold it to charge a heavier one. A bow or a staff shoots from afar |
-| Tap a beast | make it your target, with a gold ring: your blows and shots turn to it. You still walk and strike yourself |
+| Tap a beast | make it your target, with a gold ring: your blows and shots go at it, even as you walk away, so a bow or a staff keeps shooting it while you back off. You still walk and strike yourself |
 | Arts: U and I, or 1 and 2 | your class's two arts. Each costs mana and is ready again after its wait |
 | Spells: Q and E, or 3 and 4 | the two spells in your slots, learnt in the skill tree; they cost more mana |
 | Dodge: K or Shift | a quick roll the way you walk; nothing can touch you for most of it, so roll through a beast's blow as it lands |

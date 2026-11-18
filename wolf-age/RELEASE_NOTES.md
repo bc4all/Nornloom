@@ -4,6 +4,7 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 
 ## 18 November 2026
 
+- **Your target stays your target**: tap a beast and your blows, shots and charged shots go at it even while you walk away, so a Huntress, a Seidr-worker or a Lifeweaver can back off and keep shooting it. Before, walking far enough in a shared world quietly dropped the target, and shots flew the way you walked. A leap such as Fox Step still goes the way you push.
 - **No more shaking screen when you use a skill while walking**: on a phone, a thumb on a skill button while the other held the arrows made the browser zoom and slide the whole page, so the screen shook, part of it went dark and the skill sometimes did not fire. The game screen no longer lets two fingers zoom it, in solo and online.
 - **Every land has its own work now**: the lands no longer all ask to cull four beasts and open one strongbox. Each land has a board of three jobs drawn from many kinds: hunts of up to a dozen of a beast, clearing up to sixteen of anything that walks the land, its elites, several strongboxes, a word carried to the elder next door, scouting the land beside, a riddle from the old stories, the lord of the land's cave or a high land's terror. In a hamlet the healer, the smith or the trader may ask for herbs, ore or fish, from any patch, vein or shore. The jobs work the same in the shared worlds.
 - Lands you have already worked through offer their new jobs too. A cull or a strongbox job you had under way can still be finished and handed in.

@@ -57,7 +57,7 @@ On a phone the fight buttons sit in the bottom right corner. Strike is the big o
 | Key | What it does |
 | --- | --- |
 | Strike: J, Space or a click | a blow with your weapon; hold it to charge a heavier one. A bow or a staff shoots from afar |
-| Tap a beast | make it your target, with a gold ring: your blows and shots turn to it. You still walk and strike yourself |
+| Tap a beast | make it your target, with a gold ring: your blows and shots go at it, even as you walk away, so a bow or a staff keeps shooting it while you back off. You still walk and strike yourself |
 | Arts: U and I, or 1 and 2 | your class's two arts. Each costs mana and is ready again after its wait |
 | Spells: Q and E, or 3 and 4 | the two spells in your slots, learnt in the skill tree; they cost more mana |
 | Dodge: K or Shift | a quick roll the way you walk; nothing can touch you for most of it, so roll through a beast's blow as it lands |
