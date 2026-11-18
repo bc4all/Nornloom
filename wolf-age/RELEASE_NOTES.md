@@ -10,7 +10,9 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - **Finds for every class alike**: beasts, bosses, strongboxes and dug hoards now drop gear every class can use in about the same share, about three finds in five for each. Before, the melee classes' blades and shields made up most finds.
 - **Walking in the shared worlds is smooth on every phone**: a phone that stutters for a moment no longer pulls your hero back or leaves it walking in place.
 - **Zoom out as far as in solo** in the shared worlds, holding your phone upright or on its side.
+- **Let go of the hero you are playing**: on the Play together screen the hero you play now has its own "Let go" under its name, as the others do. Before, only your other heroes could be let go, so a single online hero could never be.
 - **Back where you left**: leave a shared world and come back, and your hero stands where you left it (left in a cave, at the cave's mouth).
+- **No more nameless "Hero" in the shared worlds**: the halves of a beast that splits, a pack a beast calls in and a boss's helpers now look and are named as in solo. Before, they showed as a hero called "Hero", jumped about, and could not be tapped.
 
 ## 16 November 2026
 
