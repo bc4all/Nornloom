@@ -24,6 +24,10 @@ Yes. In a shared world, Hide chat in the menu keeps what other heroes say off th
 
 Yes. Herbs, ore, fish and the forge's materials are in the Bag on the Goods tab. At any trader, pick them under Your bag and sell one or all. Online you can also offer them on the market, to heroes of the same kind of world.
 
+**What are tools and knots for?**
+
+They make gathering quicker to learn. Bring goods and gold to any smith and look under Smith's work: a tool helps every pick of its craft, a knot worn in the amulet slot helps every pick of every kind. Swap the knot for your class charm before a fight; it holds only a little health.
+
 **How does the Lifeweaver mend others?**
 
 Tap another hero to bind to them; a green ring marks them. Eir's Touch mends them, Shelter Rune shelters them, and 20% of the harm you deal to beasts mends them too, from up to about 8 tiles away. Tap open ground to let go. With nobody bound, Eir's Touch mends whoever near you is most hurt, and your blows land harder. You can mend only heroes at peace with you: in a PvP world, off a village's safe ground, only yourself.

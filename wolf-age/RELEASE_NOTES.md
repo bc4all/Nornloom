@@ -25,6 +25,7 @@ The newest changes come first. The game is played at https://fight.nornloom.com.
 - **What you gather is in the Bag**: herbs, ore, fish and the forge's scrap iron, rune shards and dwarf embers now sit in the Bag beside your gear, on the All tab and on a new Goods tab. Tap one to see where it is found, what it is brewed or smelted into and what it fetches.
 - **Sell what you gather**: every trader buys your goods, one at a time or all at once, in solo and in the shared worlds. Online you can also offer them on the market, to heroes of your own kind of world.
 - **The crafts are trees now**: Herb lore, Mining, Fishing and Brewing each show as a column of steps on the Bag's Crafts tab, and every step opens as the craft grows: the richer finds, Quick hands (what you pick grows back in three minutes), Bountiful and Full nets (a second find far more often), Smelter (more scrap iron from ore), Rune seam (now and then a rune shard from a vein), Steady hand (a brew now and then makes two draughts) and a master's step at level 10.
+- **Tools and knots from the smith**: every smith now makes gathering tools from your goods, a sickle, a pick and a net in three grades each, and three gathering knots worn in the amulet slot. They bring a second find more often and more craft XP at every pick, in solo and in the shared worlds. Look under Smith's work at any forge.
 
 ## 16 November 2026
 

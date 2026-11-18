@@ -555,6 +555,8 @@ Each craft is a tree of steps on the Bag's Crafts tab, and a step opens when the
 
 What you gather is in the Bag, on the All and Goods tabs. Any trader buys it, a little gold a piece. Online it can also go on the market, where heroes of the same kind of world, peaceful or PvP, can buy it.
 
+Any smith also makes gathering tools from your goods: a sickle, a pick and a net, each in three grades, each made after the one below. A tool takes no room and helps every pick of its craft. Smiths tie gathering knots too, worn in the amulet slot, which help every pick of every kind. Both bring a second find more often and more craft XP a pick, but a master's third find stays rare.
+
 The richer finds want more of the craft: tier 1 from level 1, tier 2 from level 3, tier 3 from level 6, out of 10.
 
 | Find | Craft | Tier | A trader pays | What it is |
@@ -600,6 +602,25 @@ The forge's own materials sell too: scrap iron 1 gold, rune shards 8 gold, dwarf
 | Brewing | 6 | Elixirs | Brew Idunn's elixir and the water of Mimir's well. |
 | Brewing | 9 | Great draughts | Brew the draughts of the jarl and of the völva. |
 | Brewing | 10 | Master brewer | One brew in three makes two draughts. |
+
+### Tools and knots from the smith
+
+A tool helps every pick of its craft, a knot worn in the amulet slot every pick of every kind: each grade adds 5% to the chance of a second find and 1 craft XP a pick. A master's third find stays under 40%.
+
+| Make | Asks | Takes |
+| --- | --- | --- |
+| Bone sickle | Herb lore 2 | 10 healwort, 5 scrap iron, 40 gold |
+| Iron sickle | Herb lore 5, the bone sickle | 12 bloodmoss, 15 scrap iron, 300 gold |
+| Star sickle | Herb lore 8, the iron sickle | 15 goldthread, 30 scrap iron, 2 dwarf ember, 1200 gold |
+| Bog-iron pick | Mining 2 | 10 bog iron, 5 scrap iron, 40 gold |
+| Silver pick | Mining 5, the bog-iron pick | 12 mountain silver, 15 scrap iron, 300 gold |
+| Star pick | Mining 8, the silver pick | 15 star-iron, 30 scrap iron, 2 dwarf ember, 1200 gold |
+| Hemp net | Fishing 2 | 10 fjord herring, 5 scrap iron, 40 gold |
+| Eel-skin net | Fishing 5, the hemp net | 12 black eel, 15 scrap iron, 300 gold |
+| Ægir's net | Fishing 8, the eel-skin net | 15 ice char, 30 scrap iron, 2 dwarf ember, 1200 gold |
+| Gatherer's knot | Herb lore 2, Mining 2, Fishing 2 | 5 healwort, 5 bog iron, 5 fjord herring, 50 gold |
+| Wanderer's knot | level 25, Herb lore 4, Mining 4, Fishing 4 | 6 bloodmoss, 6 mountain silver, 6 black eel, 3 rune shards, 400 gold |
+| Norn-thread knot | level 60, Herb lore 7, Mining 7, Fishing 7 | 8 goldthread, 8 star-iron, 8 ice char, 2 dwarf ember, 1500 gold |
 
 ### Draughts to brew
 
