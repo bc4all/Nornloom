@@ -161,9 +161,11 @@ The same two tables as the game's help book (Help, then Getting started and Figh
 | Walk into someone | talk, trade, rest, gather or open a strongbox |
 | Enter or Space | do what the open plate offers: gather, open your chest, open a strongbox |
 | Escape | close a conversation, turn back from a border |
+| Enter and Escape | on any open plate, Enter presses its main button (accept or hand in a quest, talk on) and Escape its Leave, Cancel or Back |
 | R | get on your horse or off it |
 | + and - | zoom the map in and out (so do the + and - buttons above the arrow pad) |
 | The menu | Bag, Quests, Skills, Map and Help at the top right; Hide folds it away |
+| B, L, T and N | open the Bag, Quests, Skills and Map; on a computer each button shows its key |
 
 **Fighting**
 
