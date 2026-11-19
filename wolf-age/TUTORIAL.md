@@ -38,7 +38,7 @@ Type a name or press **Roll a name**. Then choose a class, which decides how you
 | --- | --- | --- |
 | **Berserker** | Two axes, fast and close. Lives in the middle of the crowd. | Axe Storm and Wolf Leap |
 | **Shieldmaiden** | Sword and shield. A blow from the front lands half as hard. Holds the line. | Shield Rush and Ring of Iron |
-| **Huntress** | Bow and quick feet. Shoots from afar; a charged shot flies hard and far. | Fox Step and Thorn Ring |
+| **Huntress** | Bow and hunting knife. Shoots from afar; a charged shot flies hard and far. Up close, the knife. | Barbed Arrow and Thorn Ring |
 | **Seidr-worker** | Staff and spells. Spirit bolts from afar; a song that mends friends and stings foes. | Spirit Walk and Galdr Song |
 | **Lifeweaver** | Wand and runes of life. Weaker bolts, but mends the friend you tap, or yourself. | Eir's Touch and Shelter Rune |
 
