@@ -100,6 +100,8 @@ Walk up to the beast and press **Strike**. The number that rises is the damage y
 
 Watch the beast, too. Before it hits, it winds up and marks the ground. Step away, or press the **dodge roll** button just above Strike: for most of the roll nothing can touch you.
 
+Want to try first? **Hrafn the drill-master** keeps a training ground in Eikthorp, south of the south lane (a wooden shield on the map). Strike the straw dummies and the sparring post as much as you like: a dummy stands up again, the post swings back slowly so you can practise the dodge roll, nobody gets hurt, and nothing is won or lost.
+
 ### 10. Use your art
 
 ![The hero uses Axe Storm, the Berserker's first art](images/tutorial-10-art.jpg)
