@@ -94,7 +94,7 @@ You choose a class when you make a hero. It decides your weapons, your two arts 
 |  |  | Wolf Leap | 12 | 8 s | Leap along the stick and crash down, throwing foes back. |
 | **Shieldmaiden** | Sword and shield. A blow from the front lands half as hard. Holds the line. | Shield Rush | 10 | 7 s | Charge behind the shield. |
 |  |  | Ring of Iron | 14 | 9 s | Sweep the shield edge all round. |
-| **Huntress** | Bow and quick feet. Shoots from afar; a charged shot flies hard and far. | Fox Step | 8 | 6 s | Spring away and strike where you land. |
+| **Huntress** | Bow and hunting knife. Shoots from afar; a charged shot flies hard and far. Up close, the knife. | Barbed Arrow | 8 | 6 s | Loose one hard barbed arrow at the beast; the wound bleeds for 4 seconds. |
 |  |  | Thorn Ring | 14 | 8 s | Loose a ring of arrows all round. |
 | **Seidr-worker** | Staff and spells. Spirit bolts from afar; a song that mends friends and stings foes. | Spirit Walk | 10 | 7 s | Step through the weave and strike where you land. |
 |  |  | Galdr Song | 18 | 10 s | Mend every friend near you by a third of their health, and sting the foes about you. |
@@ -232,14 +232,14 @@ Fire from Muspelheim, storm from Asgard, frost from Niflheim: spells for every c
 
 #### Bow
 
-Your two arts, sure shots, and charged shots that fly hard. Its three columns: Fox Step, Aim, Thorn Ring.
+Your two arts, sure shots, and charged shots that fly hard. Its three columns: Barbed Arrow, Aim, Thorn Ring.
 
 | Skill | Opens at | Ranks | Needs first | What it does |
 | --- | --- | --- | --- | --- |
-| Fox Step | 1 | 5 (top at level 43) | nothing | Spring away and strike where you land. Each rank makes it stronger, +120% at rank 5. |
+| Barbed Arrow | 1 | 5 (top at level 43) | nothing | Loose one hard barbed arrow at the beast; the wound bleeds for 4 seconds. Each rank makes it stronger, +120% at rank 5. |
 | Keen Edge | 1 | 5 (top at level 43) | nothing | 3% (27% at rank 5) more chance of a critical hit. |
 | Thorn Ring | 4 | 5 (top at level 46) | nothing | Loose a ring of arrows all round. Each rank makes it stronger, +120% at rank 5. |
-| Fox Trail | 8 | 5 (top at level 50) | Fox Step | Fox Step strikes 10% (90% at rank 5) harder. |
+| Fox Trail | 8 | 5 (top at level 50) | Barbed Arrow | Barbed Arrow strikes 10% (90% at rank 5) harder. |
 | Fury | 8 | 5 (top at level 50) | Keen Edge | Charged blows land 10% (90% at rank 5) harder. |
 | Briar | 8 | 5 (top at level 50) | Thorn Ring | Thorn Ring strikes 10% (90% at rank 5) harder. |
 | Quick Hands | 12 | 5 (top at level 54) | Fury | Your arts are ready again 5% (45% at rank 5) sooner. |
@@ -247,7 +247,7 @@ Your two arts, sure shots, and charged shots that fly hard. Its three columns: F
 | Bramble Crown | 20 | 1 (3 points) | Briar rank 3 | Your arts cost 40% less mana. |
 | Hunter's Mark | 25 | 1 (3 points) | Quick Hands | A beast below a third of its health takes 40% more from you. |
 | Ullr's Aim | 40 | 3 (top at level 58) | Hunter's Mark | Both your arts strike 8% (20% at rank 3) harder. |
-| Fox Fire | 45 | 1 (4 points) | Flicker | Fox Step strikes 35% harder. |
+| Fox Fire | 45 | 1 (4 points) | Flicker | Barbed Arrow strikes 35% harder. |
 | Bramble Storm | 45 | 1 (4 points) | Bramble Crown | Thorn Ring strikes 35% harder. |
 | Deadeye | 75 | 1 (5 points) | Ullr's Aim, 15 points in the tree | Critical hits land 50% harder. |
 
