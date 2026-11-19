@@ -2,6 +2,13 @@
 
 The newest changes come first. The game is played at https://fight.nornloom.com. An Android app is on its way.
 
+## 19 November 2026
+
+- **Fights make sounds for every class**: the Huntress's bow sings and her arrows thud home, blades ring, bolts of seidr crackle, and you hear a blow you take, a blow you block and a beast you fell, in solo and in the shared worlds. Before, a fight was silent but for the dodge roll.
+- **Footsteps in the shared worlds**: your hero's steps sound as you walk there, as they do in solo.
+- **Keys on the buttons when you play on a computer**: with a mouse or trackpad, or once you press a game key, every fight button, the arrow pad, the menu and Ride wear a small cap with their key: J to strike, 1 and 2 for your arts, 3 and 4 for your spells, K to roll, 5 and 6 for the draughts, WASD to walk, R to ride, and B, L, T and N for the Bag, Quests, Skills and Map. Phones and the Android app look as before.
+- **Enter and Escape on every panel**: Enter presses the main button of whatever is open (open a strongbox, accept or hand in a quest, talk on, gather, fight) and Escape its Leave, Cancel or Back, in solo and in the shared worlds.
+
 ## 18 November 2026
 
 - **Fox Step works in the shared worlds**: a leap that crossed the edge of the ground your phone keeps round you flew the Huntress off across the map and pulled her back a moment later, which shook the screen, left part of it dark and froze the game for a second. She now comes down where she leapt to, walking or standing.
