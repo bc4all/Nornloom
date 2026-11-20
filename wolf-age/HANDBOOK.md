@@ -436,7 +436,7 @@ Gear comes in tiers, each from a level: tier 1 from level 1, tier 2 from level 8
 
 ### The forge
 
-At a smith choose Forge. Break gear you no longer want down into scrap iron, rune shards and dwarf embers, then spend them with a little gold to hone a piece up to +5, or to give a piece a new quality. Ore you mine is smelted into iron there too.
+At a smith choose Forge. Break gear you no longer want down into scrap iron, rune shards and dwarf embers, then spend them with gold to hone a piece up to +5, or to give a piece a new quality. Ore you mine is smelted into iron there too.
 
 ### Bag and chest
 

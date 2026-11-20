@@ -78,7 +78,7 @@ Three walled halls stand in the high lands behind grey gate towers: Ókólnir, B
 
 **What do I do with gear I no longer wear?**
 
-Sell it, or take it to a smith and choose Forge. Breaking a piece down gives scrap iron, and rune shards from gear with a quality, or dwarf embers from artifacts and set pieces. Spend them with a little gold to hone a piece up to +5, more of its attack, defence, health or mana each time, or to give a piece of tier 2 to 7 a new quality at random. Worn gear can be honed where it is; take a piece off before you break it down.
+Sell it, or take it to a smith and choose Forge. Breaking a piece down gives scrap iron, and rune shards from gear with a quality, or dwarf embers from artifacts and set pieces. Spend them with gold to hone a piece up to +5, more of its attack, defence, health or mana each time, or to give a piece of tier 2 to 7 a new quality at random. Worn gear can be honed where it is; take a piece off before you break it down.
 
 **I answered the retelling wrong. Is the saga lost?**
 

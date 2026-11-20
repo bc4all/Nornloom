@@ -2,8 +2,13 @@
 
 The newest changes come first. The game is played at https://fight.nornloom.com. An Android app is on its way.
 
+## 20 November 2026
+
+- **The forge costs real gold now**: honing a piece and giving it a quality asked only a few dozen gold, a few seconds of hunting. The gold now follows the level the piece belongs to: each honing step costs about four fights' gold at that level, more for each step up, so taking a piece from +0 to +5 costs about half an hour of hunting where it drops. A Horn bow honed to +3 now costs 680 gold instead of 32, and its first quality 567 gold instead of 27. Scrap iron, rune shards and dwarf embers cost the same as before. It holds in solo and in the shared worlds alike.
+
 ## 19 November 2026
 
+- **The hunting knife goes in the off hand**: pressing Equip on a knife in the bag said it "cannot go there". It now goes beside the bow, and the bag compares it with the knife you wear, not with your bow.
 - **Your draught and meal on the play screen**: while a boon draught or a meal works on you, its small picture and the time it has left, such as 9:59, show under your health, mana and XP bars, in solo and in the shared worlds. When the plate is folded small they show there too.
 - **Fixed**: after a fall in the shared worlds the Bag could show the health from your last fight (16/156 while the plate said 156/156). The Bag, the Skills and the draughts now read the health and mana the world shows.
 - **Fixed**: a boon draught's time read like "for 9.999966666666667 minutes". Times now read in minutes and seconds, such as 9:59, in every language.
