@@ -6,7 +6,7 @@ The same page as the FAQ in the game's help book (Help, then FAQ), kept here so 
 
 **Does Wolf Age cost anything?**
 
-No. It is free to play, with no adverts and nothing to buy. Playing needs no account and no sign-in.
+Up to level 15, nothing. Once the demo begins (the game announces the day), the levels above 15, every land and the market need the full game: one purchase that unlocks your account on every device it signs in on. Accounts with a hero above level 15 before that day keep the full game at no cost. There are no adverts, and playing needs no account.
 
 **Where is my hero saved?**
 
