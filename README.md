@@ -1,7 +1,7 @@
 # Nornloom
 
-**Play in the browser: [nornloom.com](https://nornloom.com).** Two games, one world. Both are free,
-with no adverts and nothing to buy, and playing alone needs no account.
+**Play in the browser: [nornloom.com](https://nornloom.com).** Two games, one world. Neither has
+adverts, and playing alone needs no account.
 
 You play a skald-in-training from the village of Eikthorp, pulled into the roots of Yggdrasil by
 the Norn Skuld. The threads of fate are fraying because the old stories are being forgotten. You

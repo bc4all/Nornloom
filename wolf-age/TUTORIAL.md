@@ -2,7 +2,7 @@
 
 Nornloom: Wolf Age is the action game of Nornloom: the same world and the same myths as the card game, but every fight happens right on the map, in real time. This guide walks your first half hour with you, one button at a time, with a picture of every step. The pictures are from a phone held upright, because that is where most people play; on a computer the same buttons are there, and the keyboard works too.
 
-Play it in the browser at [fight.nornloom.com](https://fight.nornloom.com). It is free, has no adverts and nothing to buy, and playing alone needs no account.
+Play it in the browser at [fight.nornloom.com](https://fight.nornloom.com). It has no adverts, and playing alone needs no account.
 
 **The golden rule:** the plate in the top left corner always names the next thing to do. If you are lost, read it.
 
